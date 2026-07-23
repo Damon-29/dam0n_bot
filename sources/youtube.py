@@ -12,6 +12,9 @@ def fetch():
 
     for entry in feed.entries:
 
+        if "/shorts/" in entry.link:
+            continue
+
         video = {
             "id": entry.yt_videoid,
             "source": "youtube",
