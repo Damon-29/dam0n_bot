@@ -1,11 +1,5 @@
-from sources.youtube import fetch
+from utils.storage import load
 
-videos = fetch()
+data = load()
 
-print(f"Found {len(videos)} videos\n")
-
-for video in videos:
-    print("--------------------------------")
-    print(video["title"])
-    print(video["published"])
-    print(video["url"])
+print(data)
