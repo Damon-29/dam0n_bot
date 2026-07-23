@@ -7,7 +7,7 @@ def fetch():
     response = requests.get(URL, timeout=15)
     response.raise_for_status()
 
-    articles = response.json()
+    articles.sort(key=lambda x: x["startTime"])
 
     posts = []
 
@@ -16,7 +16,7 @@ def fetch():
             "id": str(article["articleId"]),
             "title": article["articleTitle"],
             "url": f"https://wutheringwaves.kurogames.com/en/main/news/detail/{article['articleId']}",
-            "published": article["createTime"]
+            "published": article["startTime"]
         })
 
     return posts
