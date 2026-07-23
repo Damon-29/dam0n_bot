@@ -31,6 +31,7 @@ def send_post(source, post):
         }
 
     payload = {
+        "content": post["url"],
         "embeds": [embed]
     }
 
