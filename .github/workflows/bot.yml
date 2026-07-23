@@ -24,11 +24,11 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Test guest token
+      - name: Test User Lookup
         # run: python main.py
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        run: python test_guest.py
+        run: python test_user.py
 
       - name: Commit updated posted.json
         run: |
