@@ -15,25 +15,24 @@ def send_post(source, post):
         "title": post["title"],
         "url": post["url"],
         "color": COLORS.get(source, 0x2F3136),
-        "timestamp": post["published"],
         "footer": {
             "text": f"Wuthering Waves • {source.title()}"
         }
     }
 
-    # Show article image for website posts
+    # Add timestamp if available
+    if post.get("published"):
+        embed["timestamp"] = post["published"]
+
+    # Add image if available
     if post.get("thumbnail"):
         embed["image"] = {
             "url": post["thumbnail"]
         }
 
-    embed["author"] = {
-        "name": "Official YouTube"
-        }
-
-    embed["image"] = {
-        "url": post["thumbnail"]
-        }
+    payload = {
+        "embeds": [embed]
+    }
 
     response = requests.post(WEBHOOK_URL, json=payload)
     response.raise_for_status()
