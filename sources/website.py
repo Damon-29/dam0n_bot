@@ -4,16 +4,12 @@ URL = "https://hw-media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G15
 
 
 def fetch():
-    response = requests.get(URL)
+    response = requests.get(URL, timeout=15)
     response.raise_for_status()
 
-    data = response.json()
+    articles = response.json()
 
     posts = []
-
-    # Find the list of articles in the JSON
-    # (We'll verify the exact key if needed.)
-    articles = data.get("data", data)
 
     for article in articles:
         posts.append({
