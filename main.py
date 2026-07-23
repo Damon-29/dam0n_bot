@@ -1,28 +1,26 @@
 from sources.youtube import fetch
 from utils.storage import (
-    load,
-    initialize,
-    is_initialized,
+    is_first_run,
     add_post,
     already_posted
 )
 
+from utils.discord import send_post   # Adjust if your function has a different name
+
 videos = fetch()
 
-if not is_initialized():
-
+# First run
+if is_first_run("youtube"):
     print("First run detected.")
 
     for video in videos:
         add_post("youtube", video)
 
-    initialize()
-
     print(f"Stored {len(videos)} existing videos.")
     print("Nothing will be sent to Discord.")
 
+# Normal run
 else:
-
     print("Checking for new videos...\n")
 
     for video in videos:
@@ -33,4 +31,5 @@ else:
         print("NEW VIDEO FOUND!")
         print(video["title"])
 
+        send_post(video)        # Use your existing Discord function
         add_post("youtube", video)
