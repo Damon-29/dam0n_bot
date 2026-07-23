@@ -3,16 +3,37 @@ import requests
 
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
 
+COLORS = {
+    "youtube": 0xFF0000,   # Red
+    "website": 0x3498DB,   # Blue
+    "x": 0x000000          # Black
+}
+
 
 def send_post(source, post):
-    payload = {
-        "content": (
-            f"## 📰 New {source.title()} Update\n\n"
-            f"**{post['title']}**\n"
-            f"{post['url']}"
-        )
+    embed = {
+        "title": post["title"],
+        "url": post["url"],
+        "color": COLORS.get(source, 0x2F3136),
+        "timestamp": post["published"],
+        "footer": {
+            "text": f"Wuthering Waves • {source.title()}"
+        }
     }
 
-    response = requests.post(WEBHOOK_URL, json=payload)
+    # Show article image for website posts
+    if source == "website" and post.get("thumbnail"):
+        embed["image"] = {
+            "url": post["thumbnail"]
+        }
 
+    payload = {
+        "embeds": [embed]
+    }
+
+    # Let Discord generate the YouTube preview/player
+    if source == "youtube":
+        payload["content"] = post["url"]
+
+    response = requests.post(WEBHOOK_URL, json=payload)
     response.raise_for_status()
