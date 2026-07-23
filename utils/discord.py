@@ -42,8 +42,7 @@ def send_post(source, post):
                 }
 
     payload = {
-        "content": post["url"],
-        "embeds": [embed]
+        "content": post["url"]
     }
 
     response = requests.post(WEBHOOK_URL, json=payload)
