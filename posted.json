@@ -1,6 +1,82 @@
 {
-    "initialized": false,
-    "youtube": {},
+    "initialized": true,
+    "youtube": {
+        "Qhh13yLDHD8": {
+            "title": "Wuthering Waves Story Cinematics | Endgame",
+            "url": "https://www.youtube.com/watch?v=Qhh13yLDHD8",
+            "published": "2026-07-22T02:00:01+00:00"
+        },
+        "OXc9IY_cwqg": {
+            "title": "Wuthering Waves Story Cinematics | Win or Lose",
+            "url": "https://www.youtube.com/watch?v=OXc9IY_cwqg",
+            "published": "2026-07-21T03:00:02+00:00"
+        },
+        "blo8OS56Szs": {
+            "title": "Wuthering Waves Story Cinematics | Legacy",
+            "url": "https://www.youtube.com/watch?v=blo8OS56Szs",
+            "published": "2026-07-20T06:00:15+00:00"
+        },
+        "UdGqw6Nf8HE": {
+            "title": "Wuthering Waves Story Cinematics | The Fourth Fall into the Winds",
+            "url": "https://www.youtube.com/watch?v=UdGqw6Nf8HE",
+            "published": "2026-07-20T03:00:34+00:00"
+        },
+        "ApnlwWG46UU": {
+            "title": "\"Wuthering Waves: Elysium\" Animated Series Reveal!",
+            "url": "https://www.youtube.com/watch?v=ApnlwWG46UU",
+            "published": "2026-07-18T13:50:08+00:00"
+        },
+        "mTfKNujXgI8": {
+            "title": "Resonator Preview | Jingran",
+            "url": "https://www.youtube.com/shorts/mTfKNujXgI8",
+            "published": "2026-07-17T04:05:01+00:00"
+        },
+        "VYEMHjFJ4bg": {
+            "title": "Resonator Preview | Qingxiao",
+            "url": "https://www.youtube.com/shorts/VYEMHjFJ4bg",
+            "published": "2026-07-17T03:05:25+00:00"
+        },
+        "5ZH7iYDsciE": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined \u2014 Jingran",
+            "url": "https://www.youtube.com/shorts/5ZH7iYDsciE",
+            "published": "2026-07-16T03:05:18+00:00"
+        },
+        "sEJILla-FPg": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined \u2014 Qingxiao",
+            "url": "https://www.youtube.com/shorts/sEJILla-FPg",
+            "published": "2026-07-15T03:05:25+00:00"
+        },
+        "zYswG6nBEFc": {
+            "title": "Dinner Podcast | Yangyang: Xuanling",
+            "url": "https://www.youtube.com/watch?v=zYswG6nBEFc",
+            "published": "2026-07-14T02:00:26+00:00"
+        },
+        "zceaibNBiIo": {
+            "title": "Wuthering Waves Anime Expo 2026 Highlights",
+            "url": "https://www.youtube.com/watch?v=zceaibNBiIo",
+            "published": "2026-07-13T14:30:33+00:00"
+        },
+        "J_Q7SRXofpw": {
+            "title": "Resonator Highlights | Yangyang: Xuanling",
+            "url": "https://www.youtube.com/shorts/J_Q7SRXofpw",
+            "published": "2026-07-11T10:00:27+00:00"
+        },
+        "OoN7g3T7APY": {
+            "title": "\"Celestial might, dispell all shadows!\"",
+            "url": "https://www.youtube.com/shorts/OoN7g3T7APY",
+            "published": "2026-07-10T08:00:04+00:00"
+        },
+        "yOP9ABdZHfw": {
+            "title": "Wuthering Waves EP3.5 \u2014 Yangyang: Xuanling - \"In the Wind\"",
+            "url": "https://www.youtube.com/watch?v=yOP9ABdZHfw",
+            "published": "2026-07-09T04:00:15+00:00"
+        },
+        "GSmZaEASKjU": {
+            "title": "Wuthering Waves | Resonator Showcase | Yangyang: Xuanling \u2014 NIGHTMARE",
+            "url": "https://www.youtube.com/watch?v=GSmZaEASKjU",
+            "published": "2026-07-08T03:00:32+00:00"
+        }
+    },
     "website": {},
     "x": {}
 }
