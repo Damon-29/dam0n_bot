@@ -15,5 +15,5 @@ r = requests.post(
     headers=headers,
 )
 
-print("Status:", r.status_code)
-print(r.text)
+guest_token = r.json()["guest_token"]
+print("Guest token:", guest_token)
