@@ -11,16 +11,11 @@ def load():
 def save(data):
     with open(FILE, "w") as f:
         json.dump(data, f, indent=4)
+        
 
-
-def is_initialized():
-    return load()["initialized"]
-
-
-def initialize():
+def is_first_run(source):
     data = load()
-    data["initialized"] = True
-    save(data)
+    return len(data[source]) == 0
 
 
 def add_post(source, post):
