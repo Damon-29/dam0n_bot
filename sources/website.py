@@ -7,6 +7,10 @@ def fetch():
     response = requests.get(URL, timeout=15)
     response.raise_for_status()
 
+    # Convert the JSON response into a Python list
+    articles = response.json()
+
+    # Sort oldest -> newest
     articles.sort(key=lambda x: x["startTime"])
 
     posts = []
