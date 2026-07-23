@@ -7,7 +7,7 @@ def _best_video_url(media):
     """
     Return the highest bitrate MP4 if this media is a video.
     """
-    if media.get("type") != "video":
+    if media.get("type") not in ("video", "animated_gif"):
         return None
 
     variants = media.get("video_info", {}).get("variants", [])
@@ -41,12 +41,7 @@ def _extract_media(tweet):
         if media_type == "photo":
             media_urls.append(item["media_url_https"])
 
-        elif media_type == "video":
-            url = _best_video_url(item)
-            if url:
-                media_urls.append(url)
-
-        elif media_type == "animated_gif":
+        elif media_type in ("video", "animated_gif"):
             url = _best_video_url(item)
             if url:
                 media_urls.append(url)
@@ -54,10 +49,27 @@ def _extract_media(tweet):
     return media_urls
 
 
+def _has_video(tweet):
+    """
+    Returns True if the tweet contains a video or GIF.
+    """
+    media = (
+        tweet.get("legacy", {})
+        .get("extended_entities", {})
+        .get("media", [])
+    )
+
+    return any(
+        item.get("type") in ("video", "animated_gif")
+        for item in media
+    )
+
+
 def _get_thumbnail(tweet):
     """
-    Returns the first photo in the tweet (if any).
-    Videos return None since Discord previews them automatically.
+    Returns the first photo only.
+    Video tweets return None because we'll let Discord
+    generate the native preview.
     """
     media = (
         tweet.get("legacy", {})
@@ -73,14 +85,6 @@ def _get_thumbnail(tweet):
 
 
 def _format_timestamp(twitter_time):
-    """
-    Convert:
-    Thu Jul 23 03:00:01 +0000 2026
-
-    to:
-
-    2026-07-23T03:00:01+00:00
-    """
     dt = datetime.strptime(
         twitter_time,
         "%a %b %d %H:%M:%S %z %Y"
@@ -106,7 +110,6 @@ def fetch_x(screen_name="Wuthering_Waves"):
 
     for instruction in instructions:
 
-        # Skip pinned tweet
         if instruction.get("type") == "TimelinePinEntry":
             continue
 
@@ -124,7 +127,6 @@ def fetch_x(screen_name="Wuthering_Waves"):
 
                 legacy = tweet["legacy"]
 
-                # Ignore retweets
                 if legacy["full_text"].startswith("RT @"):
                     continue
 
@@ -140,6 +142,7 @@ def fetch_x(screen_name="Wuthering_Waves"):
                         ),
                         "thumbnail": _get_thumbnail(tweet),
                         "media": _extract_media(tweet),
+                        "has_video": _has_video(tweet),
                     }
                 )
 
