@@ -39,6 +39,7 @@ def process_source(source_name, posts):
 # Only fetch the thumbnail for new website articles
         if source_name == "website":
             post["thumbnail"] = get_thumbnail(post["article_id"])
+            print("Thumbnail:", post["thumbnail"])
 
         send_post(source_name, post)
 
