@@ -1,5 +1,8 @@
 from sources.youtube import fetch as fetch_youtube
-from sources.website import fetch as fetch_website
+from sources.website import (
+    fetch as fetch_website,
+    get_thumbnail,
+)
 # from sources.x import fetch as fetch_x
 
 from utils.storage import (
@@ -32,6 +35,10 @@ def process_source(source_name, posts):
 
         print(f"NEW {source_name.upper()} POST!")
         print(post["title"])
+
+# Only fetch the thumbnail for new website articles
+        if source_name == "website":
+            post["thumbnail"] = get_thumbnail(post["article_id"])
 
         send_post(source_name, post)
 
