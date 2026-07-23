@@ -3,7 +3,7 @@ from sources.website import (
     fetch as fetch_website,
     get_thumbnail,
 )
-# from sources.x import fetch as fetch_x
+from sources.x import fetch_x
 
 from utils.storage import (
     is_first_run,
