@@ -10,9 +10,10 @@ headers = {
     "User-Agent": "Mozilla/5.0",
 }
 
-url = "https://api.x.com/1.1/guest/activate.json"
-
-r = requests.post(url, headers=headers)
+r = requests.post(
+    "https://api.x.com/1.1/guest/activate.json",
+    headers=headers,
+)
 
 print("Status:", r.status_code)
 print(r.text)
