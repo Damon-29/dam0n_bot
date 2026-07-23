@@ -25,10 +25,15 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Test User Lookup
-        # run: python main.py
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: python test_user.py
+
+      - name: Upload timeline.json
+        uses: actions/upload-artifact@v4
+        with:
+          name: timeline
+          path: timeline.json
 
       - name: Commit updated posted.json
         run: |
