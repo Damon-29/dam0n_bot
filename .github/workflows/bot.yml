@@ -25,7 +25,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Test website parser
-        env: python sources/website.py
+        run: python sources/website.py
 
       - name: Commit updated posted.json
         run: |
