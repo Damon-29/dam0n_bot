@@ -46,4 +46,9 @@ def send_post(source, post):
     }
 
     response = requests.post(WEBHOOK_URL, json=payload)
+
+    if not response.ok:
+        print("Discord error:", response.status_code)
+        print(response.text)
+
     response.raise_for_status()
