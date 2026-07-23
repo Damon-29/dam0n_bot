@@ -1,5 +1,5 @@
 from sources.youtube import fetch as fetch_youtube
-# from sources.website import fetch as fetch_website
+from sources.website import fetch as fetch_website
 # from sources.x import fetch as fetch_x
 
 from utils.storage import (
@@ -51,11 +51,10 @@ def main():
         fetch_youtube()
     )
 
-    # process_source(
-    #     "website",
-    #     fetch_website()
-    # )
-
+    process_source(
+        "website",
+        fetch_website()
+    )
     # process_source(
     #     "x",
     #     fetch_x()
