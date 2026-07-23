@@ -27,13 +27,13 @@ def send_post(source, post):
             "url": post["thumbnail"]
         }
 
-    payload = {
-        "embeds": [embed]
-    }
+    embed["author"] = {
+        "name": "Official YouTube"
+        }
 
-    # Let Discord generate the YouTube preview/player
-    if source == "youtube":
-        payload["content"] = post["url"]
+    embed["image"] = {
+        "url": post["thumbnail"]
+        }
 
     response = requests.post(WEBHOOK_URL, json=payload)
     response.raise_for_status()
