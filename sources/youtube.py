@@ -1,17 +1,26 @@
 import feedparser
 
+CHANNEL_ID = "UC0Bi5KMcECRVYis5Gb_ZYZQ"
 
-def get_latest_video(feed_url):
-    feed = feedparser.parse(feed_url)
+RSS_URL = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHANNEL_ID}"
+
+def fetch():
+    feed = feedparser.parse(RSS_URL)
 
     if not feed.entries:
-        return None
+        return []
 
-    latest = feed.entries[0]
+    posts = []
 
-    return {
-        "id": latest.id,
-        "title": latest.title,
-        "link": latest.link,
-        "published": latest.published
-    }
+    for entry in feed.entries:
+        posts.append({
+            "id": entry.yt_videoid,
+            "title": entry.title,
+            "url": entry.link,
+            "published": entry.published,
+            "author": entry.author,
+            "thumbnail": f"https://i.ytimg.com/vi/{entry.yt_videoid}/maxresdefault.jpg",
+            "source": "YouTube"
+        })
+
+    return posts
