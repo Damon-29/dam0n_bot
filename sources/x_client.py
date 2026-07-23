@@ -1,4 +1,6 @@
 import json
+from urllib.parse import quote
+
 import requests
 
 
@@ -13,6 +15,12 @@ class XClient:
         "AppleWebKit/537.36 (KHTML, like Gecko) "
         "Chrome/142.0.0.0 Safari/537.36"
     )
+
+    # GraphQL Query ID
+    USER_BY_SCREEN_NAME_QUERY = "681MIj51w00Aj6dY0GXnHw"
+
+    # We'll add the full defaultFeatures string here in the next step
+    FEATURES = ""
 
     def __init__(self):
         self.session = requests.Session()
