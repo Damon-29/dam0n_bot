@@ -34,7 +34,7 @@ def process_source(source_name, posts):
         print(f"NEW {source_name.upper()} POST!")
         print(post["title"])
 
-        send_post(post)
+        send_post(source_name,post)
 
         add_post(source_name, post)
 
