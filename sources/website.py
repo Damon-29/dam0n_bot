@@ -12,7 +12,14 @@ def fetch():
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    print(soup.prettify()[:3000])
+    scripts = soup.find_all("script")
+
+    for script in scripts:
+        text = script.string
+
+        if text and "window.__INITIAL__" in text:
+            print(text)
+            break
 
 
 if __name__ == "__main__":
