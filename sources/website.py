@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 
 MENU_URL = (
     "https://hw-media-cdn-mingchao.kurogame.com/"
@@ -10,6 +11,8 @@ DETAIL_URL = (
     "https://hw-media-cdn-mingchao.kurogame.com/"
     "akiwebsite/website2.0/json/G152/en/article/{}.json"
 )
+
+CDN_BASE = "https://hw-media-cdn-mingchao.kurogame.com/"
 
 
 def get_thumbnail(article_id):
@@ -26,7 +29,23 @@ def get_thumbnail(article_id):
 
     img = soup.find("img")
 
-    return img["src"] if img else None
+    if not img:
+        return None
+
+    src = img.get("src", "").strip()
+
+    # Handle URLs like //cdn...
+    if src.startswith("//"):
+        src = "https:" + src
+
+    # Handle relative URLs like /images/...
+    elif src.startswith("/"):
+        src = urljoin(CDN_BASE, src)
+
+    # Debug (remove later if you want)
+    print("Website thumbnail:", src)
+
+    return src
 
 
 def fetch():
@@ -40,14 +59,19 @@ def fetch():
     posts = []
 
     for article in articles:
-        posts.append({
-            "id": str(article["articleId"]),
-            "article_id": article["articleId"],   # Needed later
-            "title": article["articleTitle"],
-            "url": f"https://wutheringwaves.kurogames.com/en/main/news/detail/{article['articleId']}",
-            "published": article["startTime"],
-            "thumbnail": None
-        })
+        posts.append(
+            {
+                "id": str(article["articleId"]),
+                "article_id": article["articleId"],
+                "title": article["articleTitle"],
+                "url": (
+                    "https://wutheringwaves.kurogames.com/"
+                    f"en/main/news/detail/{article['articleId']}"
+                ),
+                "published": article["startTime"],
+                "thumbnail": None,
+            }
+        )
 
     return posts
 
@@ -57,7 +81,6 @@ if __name__ == "__main__":
 
     print(f"Found {len(posts)} articles\n")
 
-    # Demo: fetch thumbnail for the newest article only
     newest = posts[-1]
 
     thumb = get_thumbnail(newest["article_id"])
