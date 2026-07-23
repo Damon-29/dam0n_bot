@@ -1,8 +1,11 @@
 from sources.youtube import fetch
 
-posts = fetch()
+videos = fetch()
 
-print(f"Found {len(posts)} videos")
+print(f"Found {len(videos)} videos\n")
 
-for post in posts:
-    print(post["title"])
+for video in videos:
+    print("--------------------------------")
+    print(video["title"])
+    print(video["published"])
+    print(video["url"])
