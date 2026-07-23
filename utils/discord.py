@@ -20,18 +20,30 @@ def send_post(source, post):
         }
     }
 
-    # Add timestamp if available
+    # Timestamp (Discord expects ISO 8601, so only include if already formatted)
     if post.get("published"):
         embed["timestamp"] = post["published"]
 
-    # Add image if available
+    # Website thumbnail
     if post.get("thumbnail"):
         embed["image"] = {
             "url": post["thumbnail"]
         }
 
+    # X images (uses the first image if present)
+    elif post.get("media"):
+        if len(post["media"]) > 0:
+            first_media = post["media"][0]
+
+            # Only embed images
+            if first_media.lower().endswith((".jpg", ".jpeg", ".png", ".webp")):
+                embed["image"] = {
+                    "url": first_media
+                }
+
     payload = {
-        "content": post["url"]
+        "content": post["url"],
+        "embeds": [embed]
     }
 
     response = requests.post(WEBHOOK_URL, json=payload)
