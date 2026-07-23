@@ -18,7 +18,7 @@ def fetch():
             "type": "video",
             "title": entry.title,
             "url": entry.link,
-            "thumbnail": f"https://i.ytimg.com/vi/{entry.yt_videoid}/maxresdefault.jpg",
+            "thumbnail": f"https://img.youtube.com/vi/{entry.yt_videoid}/hqdefault.jpg",
             "published": entry.published,
             "author": entry.author,
         }
