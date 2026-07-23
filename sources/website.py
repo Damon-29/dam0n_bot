@@ -21,7 +21,7 @@ def fetch():
             "title": article["articleTitle"],
             "url": f"https://wutheringwaves.kurogames.com/en/main/news/detail/{article['articleId']}",
             "published": article["startTime"],
-            "thumbnail": thumbnail
+            "thumbnail": None
         })
 
     return posts
