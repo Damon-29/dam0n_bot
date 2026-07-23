@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from sources.x_client import XClient
 
 
@@ -52,6 +54,41 @@ def _extract_media(tweet):
     return media_urls
 
 
+def _get_thumbnail(tweet):
+    """
+    Returns the first photo in the tweet (if any).
+    Videos return None since Discord previews them automatically.
+    """
+    media = (
+        tweet.get("legacy", {})
+        .get("extended_entities", {})
+        .get("media", [])
+    )
+
+    for item in media:
+        if item.get("type") == "photo":
+            return item["media_url_https"]
+
+    return None
+
+
+def _format_timestamp(twitter_time):
+    """
+    Convert:
+    Thu Jul 23 03:00:01 +0000 2026
+
+    to:
+
+    2026-07-23T03:00:01+00:00
+    """
+    dt = datetime.strptime(
+        twitter_time,
+        "%a %b %d %H:%M:%S %z %Y"
+    )
+
+    return dt.isoformat()
+
+
 def fetch_x(screen_name="Wuthering_Waves"):
     client = XClient()
 
@@ -87,18 +124,21 @@ def fetch_x(screen_name="Wuthering_Waves"):
 
                 legacy = tweet["legacy"]
 
-                tweet_id = legacy["id_str"]
-
                 # Ignore retweets
                 if legacy["full_text"].startswith("RT @"):
                     continue
+
+                tweet_id = legacy["id_str"]
 
                 posts.append(
                     {
                         "id": tweet_id,
                         "title": legacy["full_text"],
                         "url": f"https://x.com/{screen_name}/status/{tweet_id}",
-                        "published": legacy["created_at"],
+                        "published": _format_timestamp(
+                            legacy["created_at"]
+                        ),
+                        "thumbnail": _get_thumbnail(tweet),
                         "media": _extract_media(tweet),
                     }
                 )
