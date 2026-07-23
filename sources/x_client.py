@@ -26,6 +26,9 @@ class XClient:
     USER_TWEETS_QUERY = USER_TWEETS_QUERY
     FEATURES = DEFAULT_FEATURES
 
+    # Set to True if you want to see API responses while debugging
+    DEBUG = False
+
     def __init__(self):
         self.session = requests.Session()
         self.guest_token = None
@@ -46,7 +49,8 @@ class XClient:
 
         self.guest_token = r.json()["guest_token"]
 
-        print("Guest token:", self.guest_token)
+        if self.DEBUG:
+            print("Guest token:", self.guest_token)
 
         return self.guest_token
 
@@ -81,9 +85,10 @@ class XClient:
             timeout=30,
         )
 
-        print(f"\n=== {operation} ===")
-        print("Status:", r.status_code)
-        print(r.text[:1500])
+        if self.DEBUG:
+            print(f"\n=== {operation} ===")
+            print("Status:", r.status_code)
+            print(r.text[:1500])
 
         r.raise_for_status()
 
