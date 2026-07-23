@@ -8,7 +8,7 @@ from utils.storage import (
     already_posted,
 )
 
-from utils.discord import send_post  # Change if your function name differs
+from utils.discord import send_post
 
 
 def process_source(source_name, posts):
@@ -27,14 +27,13 @@ def process_source(source_name, posts):
     new_posts = 0
 
     for post in posts:
-
         if already_posted(source_name, post["id"]):
             continue
 
         print(f"NEW {source_name.upper()} POST!")
         print(post["title"])
 
-        send_post(source_name,post)
+        send_post(source_name, post)
 
         add_post(source_name, post)
 
@@ -44,21 +43,21 @@ def process_source(source_name, posts):
         print(f"No new {source_name} posts.\n")
 
 
+def run_source(source_name, fetch_function):
+    try:
+        posts = fetch_function()
+        process_source(source_name, posts)
+
+    except Exception as e:
+        print(f"ERROR processing {source_name}: {e}\n")
+
+
 def main():
+    run_source("youtube", fetch_youtube)
+    run_source("website", fetch_website)
 
-    process_source(
-        "youtube",
-        fetch_youtube()
-    )
-
-    process_source(
-        "website",
-        fetch_website()
-    )
-    # process_source(
-    #     "x",
-    #     fetch_x()
-    # )
+    # Uncomment when X is implemented
+    # run_source("x", fetch_x)
 
 
 if __name__ == "__main__":
