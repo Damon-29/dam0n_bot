@@ -1,5 +1,9 @@
 import json
-from urllib.parse import quote
+from sources.x_constants import (
+    USER_BY_SCREEN_NAME_QUERY,
+    USER_TWEETS_QUERY,
+    DEFAULT_FEATURES,
+)
 
 import requests
 
