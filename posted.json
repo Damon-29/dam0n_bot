@@ -76,6 +76,3277 @@
             "published": "2026-07-08T03:00:32+00:00"
         }
     },
-    "website": {},
+    "website": {
+        "162": {
+            "title": "Developer's Notes - Resonators of First Encounter",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/162",
+            "published": "2023-02-24 14:10:51"
+        },
+        "170": {
+            "title": "Closed Beta Test FAQ",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/170",
+            "published": "2023-03-21 10:45:00"
+        },
+        "169": {
+            "title": "Closed Beta Test Recruitment Begins!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/169",
+            "published": "2023-03-21 10:45:00"
+        },
+        "176": {
+            "title": "Profile: Qingloong Prevailing the Long Night - Jiyan",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/176",
+            "published": "2023-03-28 11:55:00"
+        },
+        "179": {
+            "title": "Developer's Notes - Crownless: The Primal's Desire",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/179",
+            "published": "2023-03-30 10:30:00"
+        },
+        "182": {
+            "title": "Profile: Scarlet Apparition - Danjin",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/182",
+            "published": "2023-04-04 10:30:00"
+        },
+        "186": {
+            "title": "Profile: Counting Sheep - An'ke",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/186",
+            "published": "2023-04-11 10:30:00"
+        },
+        "191": {
+            "title": "Fair Gaming Policy",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/191",
+            "published": "2023-04-24 10:55:00"
+        },
+        "383": {
+            "title": "Closed Beta Test Server Opening Announcement",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/383",
+            "published": "2023-04-24 10:56:00"
+        },
+        "389": {
+            "title": "Closed Beta Test Ending Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/389",
+            "published": "2023-05-09 17:55:00"
+        },
+        "393": {
+            "title": "Developer's Notes - Combat System",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/393",
+            "published": "2023-05-10 16:30:00"
+        },
+        "396": {
+            "title": "Closed Beta Test End Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/396",
+            "published": "2023-05-12 18:11:26"
+        },
+        "399": {
+            "title": "Wuthering Waves CLOSED BETA TEST Review",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/399",
+            "published": "2023-05-17 17:55:00"
+        },
+        "403": {
+            "title": "Wuthering Waves Fan Art Contest \u2013 Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/403",
+            "published": "2023-05-31 10:30:00"
+        },
+        "451": {
+            "title": "Profile Reveal: Snow Waltz \u2014 Sanhua",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/451",
+            "published": "2023-08-23 17:55:00"
+        },
+        "461": {
+            "title": "Developer's Notes \u2014 Sanhua",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/461",
+            "published": "2023-09-05 17:55:00"
+        },
+        "475": {
+            "title": "Profile Reveal: Mistcloak Strike \u2014 Aalto",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/475",
+            "published": "2023-09-20 18:10:00"
+        },
+        "497": {
+            "title": "Developer's Notes \u2014 Aalto",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/497",
+            "published": "2023-09-26 18:25:00"
+        },
+        "512": {
+            "title": "Profile Reveal: Dragon's Breath \u2014 Mortefi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/512",
+            "published": "2023-10-18 17:55:00"
+        },
+        "526": {
+            "title": "Developer's Note \u2014 Mortefi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/526",
+            "published": "2023-10-23 17:55:00"
+        },
+        "542": {
+            "title": "Profile Reveal: Scarlet Shade \u2014 Danjin",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/542",
+            "published": "2023-11-16 11:02:00"
+        },
+        "549": {
+            "title": "Developer's Notes \u2014 Danjin",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/549",
+            "published": "2023-11-21 17:55:00"
+        },
+        "566": {
+            "title": "Profile Reveal: Fist of Thunder \u2014 Yuanwu",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/566",
+            "published": "2023-12-06 17:55:00"
+        },
+        "573": {
+            "title": "Developer's Notes \u2014 Yuanwu",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/573",
+            "published": "2023-12-11 17:55:00"
+        },
+        "583": {
+            "title": "Profile Reveal: Blossom of Slashes \u2014 Taoqi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/583",
+            "published": "2023-12-20 17:55:00"
+        },
+        "589": {
+            "title": "Developer's Notes \u2014Taoqi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/589",
+            "published": "2023-12-27 17:55:00"
+        },
+        "599": {
+            "title": "Wuthering Waves CBT2 Recruitment FAQ",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/599",
+            "published": "2024-01-18 11:00:00"
+        },
+        "598": {
+            "title": "Wuthering Waves Closed Beta II Recruitment Open!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/598",
+            "published": "2024-01-18 11:00:00"
+        },
+        "616": {
+            "title": "Wuthering Waves Closed Beta II Opens on Feb. 19",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/616",
+            "published": "2024-02-04 11:00:00"
+        },
+        "621": {
+            "title": "Profile Reveal: Breath of Winds \u2014 Yangyang",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/621",
+            "published": "2024-02-05 20:32:19"
+        },
+        "622": {
+            "title": "Profile Reveal: Gallant Blaze \u2014 Chixia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/622",
+            "published": "2024-02-05 20:39:22"
+        },
+        "623": {
+            "title": "Profile Reveal: Healing You'tan \u2014 Baizhi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/623",
+            "published": "2024-02-05 20:41:29"
+        },
+        "629": {
+            "title": "Start of CBT2 Qualifications Distribution Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/629",
+            "published": "2024-02-16 11:00:00"
+        },
+        "630": {
+            "title": "Wuthering Waves: Developer's Message",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/630",
+            "published": "2024-02-16 18:00:00"
+        },
+        "649": {
+            "title": "Wuthering Waves Closed Beta II Pre-download Instructions",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/649",
+            "published": "2024-02-18 11:00:00"
+        },
+        "650": {
+            "title": "End of CBT2 Qualifications Distribution Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/650",
+            "published": "2024-02-18 21:00:00"
+        },
+        "655": {
+            "title": "Closed Beta II Server Opening Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/655",
+            "published": "2024-02-19 10:00:00"
+        },
+        "656": {
+            "title": "Wuthering Waves Fan Creation Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/656",
+            "published": "2024-02-19 18:00:00"
+        },
+        "666": {
+            "title": "Profile Reveal: Cleansing Reflections \u2014 Jianxin",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/666",
+            "published": "2024-02-26 17:00:00"
+        },
+        "674": {
+            "title": "Reminder: End of Closed Beta II",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/674",
+            "published": "2024-03-14 14:00:00"
+        },
+        "676": {
+            "title": "Profile Reveal: Nature Calling \u2014 Verina",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/676",
+            "published": "2024-03-14 18:00:00"
+        },
+        "675": {
+            "title": "End of Closed Beta II Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/675",
+            "published": "2024-03-17 18:00:00"
+        },
+        "690": {
+            "title": "Developer's Message: CLOSED BETA TEST II Review",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/690",
+            "published": "2024-03-22 18:00:00"
+        },
+        "710": {
+            "title": "Profile Reveal: Phantom Hunters \u2014 Calcharo",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/710",
+            "published": "2024-04-19 18:00:00"
+        },
+        "714": {
+            "title": "Profile Reveal: Consultant from the Black Shores \u2014 Encore",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/714",
+            "published": "2024-04-23 18:00:00"
+        },
+        "720": {
+            "title": "Profile Reveal: Frosty Gusto \u2014 Lingyang",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/720",
+            "published": "2024-05-09 16:00:00"
+        },
+        "738": {
+            "title": "Wuthering Waves Player Community Information",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/738",
+            "published": "2024-05-20 15:00:00"
+        },
+        "742": {
+            "title": "Wuthering Waves Fair Play Policy",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/742",
+            "published": "2024-05-20 15:40:33"
+        },
+        "748": {
+            "title": "Wuthering Waves Pre-download Instructions",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/748",
+            "published": "2024-05-21 18:00:00"
+        },
+        "728": {
+            "title": "Wuthering Waves x Twitch: Support a streamer",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/728",
+            "published": "2024-05-22 10:00:00"
+        },
+        "758": {
+            "title": "Convene Details",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/758",
+            "published": "2024-05-23 10:00:00"
+        },
+        "777": {
+            "title": "Wuthering Waves List of Known Issues (Updated on May 23rd)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/777",
+            "published": "2024-05-24 04:00:00"
+        },
+        "790": {
+            "title": "Regarding Gameplay Issues and Our Future Improvement Plans",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/790",
+            "published": "2024-05-24 23:00:00"
+        },
+        "795": {
+            "title": "Profile Reveal: General of the Midnight Rangers \u2014 Jiyan",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/795",
+            "published": "2024-05-24 23:33:45"
+        },
+        "799": {
+            "title": "Wuthering Waves Fan Creation Event is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/799",
+            "published": "2024-05-25 10:00:00"
+        },
+        "813": {
+            "title": "Event Notice | Overdash Club \u2014 Limited-time Track Challenge Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/813",
+            "published": "2024-05-28 11:00:00"
+        },
+        "827": {
+            "title": "Announcement on \"Wuthering Waves\" 1.0 Version and Future Adjustment Directions",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/827",
+            "published": "2024-06-02 18:04:09"
+        },
+        "836": {
+            "title": "Event Notice | Alloy Smelt \u2014 Limited-time Battle Challenge Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/836",
+            "published": "2024-06-05 16:00:00"
+        },
+        "846": {
+            "title": "[When Thunder Pours] Featured Resonator Convene: Boosted Drop Rate for [Yinlin]",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/846",
+            "published": "2024-06-05 18:00:00"
+        },
+        "847": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for [Stringmaster]",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/847",
+            "published": "2024-06-05 18:05:00"
+        },
+        "862": {
+            "title": "Profile Reveal | Evil-conquering Puppet \u2014 Yinlin",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/862",
+            "published": "2024-06-06 12:03:00"
+        },
+        "866": {
+            "title": "Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/866",
+            "published": "2024-06-07 18:30:00"
+        },
+        "874": {
+            "title": "Limited-time Special Event Notice | Wuthering Exploration Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/874",
+            "published": "2024-06-11 18:00:00"
+        },
+        "881": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Dreamless",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/881",
+            "published": "2024-06-14 12:15:58"
+        },
+        "893": {
+            "title": "Wuthering Waves Developer's Message Vol. 3: Version 1.1 Preview",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/893",
+            "published": "2024-06-18 21:30:00"
+        },
+        "897": {
+            "title": "Wuthering Waves Version Preview | Version 1.1 \"Thaw of Eons\" Coming June 28",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/897",
+            "published": "2024-06-19 12:11:39"
+        },
+        "900": {
+            "title": "\"Chord Cleansing\" LT Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/900",
+            "published": "2024-06-19 12:18:06"
+        },
+        "913": {
+            "title": "Rover's Notes | Version 1.1 \"Thaw of Eons\"",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/913",
+            "published": "2024-06-21 18:00:00"
+        },
+        "923": {
+            "title": "New Map Preview | Huanglong \"Mt. Firmament\" Opening Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/923",
+            "published": "2024-06-23 11:00:00"
+        },
+        "922": {
+            "title": "Wutherium Geographic: Lands and Waters \u2014 Huanglong: Jinzhou \u2014 Hongzhen",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/922",
+            "published": "2024-06-23 16:00:00"
+        },
+        "921": {
+            "title": "Wutherium Geographic: Lands and Waters \u2014 Huanglong: Jinzhou \u2014 Mt. Firmament",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/921",
+            "published": "2024-06-23 16:00:00"
+        },
+        "932": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Tactical Hologram: Crownless",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/932",
+            "published": "2024-06-24 18:00:00"
+        },
+        "945": {
+            "title": "Wuthering Waves Version 1.1 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/945",
+            "published": "2024-06-25 12:30:00"
+        },
+        "946": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Collection of Small & Medium Size Echoes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/946",
+            "published": "2024-06-25 13:00:00"
+        },
+        "947": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Ju\u00e9",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/947",
+            "published": "2024-06-25 14:00:00"
+        },
+        "965": {
+            "title": "Profile Reveal | Thawborn Renewal \u2014 Jinhsi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/965",
+            "published": "2024-06-26 15:48:24"
+        },
+        "973": {
+            "title": "[Thawborn Renewal] Featured Resonator Convene: Boosted Drop Rate for Jinhsi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/973",
+            "published": "2024-06-27 11:00:00"
+        },
+        "974": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Ages of Harvest",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/974",
+            "published": "2024-06-27 11:10:00"
+        },
+        "975": {
+            "title": "Wuthering Waves Version Overview | Version 1.1 \"Thaw of Eons\" Coming June 28",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/975",
+            "published": "2024-06-27 18:00:00"
+        },
+        "996": {
+            "title": "Version 1.1: Thaw of Eons Patch Notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/996",
+            "published": "2024-06-28 12:00:00"
+        },
+        "1004": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1004",
+            "published": "2024-06-28 20:00:00"
+        },
+        "1006": {
+            "title": "Wuthering Waves Fan Creation Event \u201cThaw of Eons\u201d is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1006",
+            "published": "2024-06-29 18:00:00"
+        },
+        "1005": {
+            "title": "Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1005",
+            "published": "2024-06-30 20:00:00"
+        },
+        "1025": {
+            "title": "New Content \"Dreams Ablaze in Darkness\" Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1025",
+            "published": "2024-07-02 15:00:00"
+        },
+        "1018": {
+            "title": "[Gifts of Gratitude] Featured Login Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1018",
+            "published": "2024-07-02 18:00:00"
+        },
+        "1038": {
+            "title": "[Bountiful Crescendo] Featured Material Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1038",
+            "published": "2024-07-10 12:32:43"
+        },
+        "1055": {
+            "title": "Event Notice | [Tactical Simulacra] Featured Combat Event Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1055",
+            "published": "2024-07-17 11:00:00"
+        },
+        "1061": {
+            "title": "Profile Reveal | Eternal Blaze \u2014 Changli",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1061",
+            "published": "2024-07-19 12:00:00"
+        },
+        "1065": {
+            "title": "[Vermillion's Ploy] Featured Resonator Convene: Boosted Drop Rate for Changli",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1065",
+            "published": "2024-07-21 11:00:00"
+        },
+        "1066": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Brilliance",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1066",
+            "published": "2024-07-21 11:15:00"
+        },
+        "1080": {
+            "title": "Event Notice | \"Lollo Campaign\" Limited-time Commission Event Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1080",
+            "published": "2024-07-23 18:00:00"
+        },
+        "1099": {
+            "title": "[Chord Cleansing] Featured Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1099",
+            "published": "2024-08-05 11:00:00"
+        },
+        "1109": {
+            "title": "Wuthering Waves Developer's Message Vol. 4: Version 1.2 Optimization Preview With A Special Note From Developers",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1109",
+            "published": "2024-08-06 20:00:00"
+        },
+        "1114": {
+            "title": "Wuthering Waves Version Preview | Version 1.2 \"In the Turquoise Moonglow\" Coming August 15",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1114",
+            "published": "2024-08-08 11:30:00"
+        },
+        "1121": {
+            "title": "Wutherium Geographic: Lands and Waters \u2014 Extra Volume: Culture and Customs",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1121",
+            "published": "2024-08-09 12:00:00"
+        },
+        "1137": {
+            "title": "Wuthering Waves Version 1.2 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1137",
+            "published": "2024-08-10 11:00:00"
+        },
+        "1127": {
+            "title": "Wuthering Waves Official Launcher Pre-Download Feature Available Soon via Grayscale Release",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1127",
+            "published": "2024-08-11 11:00:00"
+        },
+        "1144": {
+            "title": "Profile Reveal | Enchancted Brush \u2014 Zhezhi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1144",
+            "published": "2024-08-12 12:00:00"
+        },
+        "1147": {
+            "title": "Wuthering Waves Version Overview | Version 1.2 \"In the Turquoise Moonglow\" Coming August 15",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1147",
+            "published": "2024-08-12 18:00:00"
+        },
+        "1157": {
+            "title": "Event Notice | \"By Moon's Grace\" Moon-Chasing Festival Themed Event Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1157",
+            "published": "2024-08-13 18:00:00"
+        },
+        "1170": {
+            "title": "[Chromatic Prose] Featured Resonator Convene: Boosted Drop Rate for Zhezhi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1170",
+            "published": "2024-08-14 11:00:00"
+        },
+        "1171": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Rime-Draped Sprouts",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1171",
+            "published": "2024-08-14 11:15:00"
+        },
+        "1178": {
+            "title": "Event Notice | \"Reprise of Tides\" Returnee Event Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1178",
+            "published": "2024-08-14 18:00:00"
+        },
+        "1190": {
+            "title": "Version 1.2: In the Turquoise Moonglow Patch Notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1190",
+            "published": "2024-08-15 08:00:00"
+        },
+        "1198": {
+            "title": "Wuthering Waves Fan Creation Event \u201cIn the Turquoise Moonglow\u201d is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1198",
+            "published": "2024-08-15 20:00:00"
+        },
+        "1203": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1203",
+            "published": "2024-08-16 18:30:00"
+        },
+        "1218": {
+            "title": "Event Notice | Depths of Illusive Realm: Carnival in Slumberland Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1218",
+            "published": "2024-08-20 17:00:00"
+        },
+        "1226": {
+            "title": "Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1226",
+            "published": "2024-08-23 20:00:00"
+        },
+        "1233": {
+            "title": "[Bountiful Crescendo] Featured Material Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1233",
+            "published": "2024-08-28 10:00:00"
+        },
+        "1240": {
+            "title": "Wuthering Waves Developer's Message: The Black Shores Preview",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1240",
+            "published": "2024-08-30 19:30:00"
+        },
+        "1250": {
+            "title": "[Converging Paths] The Moon-Chasing Festival Preparation",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1250",
+            "published": "2024-09-03 18:03:38"
+        },
+        "1255": {
+            "title": "Profile Reveal | Matter Weaver \u2014 Xiangli Yao",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1255",
+            "published": "2024-09-04 12:00:00"
+        },
+        "1268": {
+            "title": "[Do Echoids Dream of Electric Sheeps] Limited-Time Defense Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1268",
+            "published": "2024-09-04 18:00:00"
+        },
+        "1279": {
+            "title": "[Celestial Revelation] Featured Resonator Convene: Boosted Drop Rate for Xiangli Yao",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1279",
+            "published": "2024-09-06 11:00:00"
+        },
+        "1280": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Verity's Handle",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1280",
+            "published": "2024-09-06 11:15:00"
+        },
+        "1288": {
+            "title": "V1.2 WUWA Discord Quest Livestream Event Begins!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1288",
+            "published": "2024-09-06 14:00:00"
+        },
+        "1296": {
+            "title": "[Wuthering Exploration] Limited-Time Exploration Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1296",
+            "published": "2024-09-11 10:00:00"
+        },
+        "1306": {
+            "title": "[Alloy Smelt II] Limited-Time Battle Challenge",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1306",
+            "published": "2024-09-15 11:00:00"
+        },
+        "1316": {
+            "title": "[Chord Cleansing] Featured Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1316",
+            "published": "2024-09-19 11:00:00"
+        },
+        "1320": {
+            "title": "Updates for PC Launcher 1.6.2",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1320",
+            "published": "2024-09-19 16:00:00"
+        },
+        "1328": {
+            "title": "Wuthering Waves Version Preview | Version 1.3 \"To the Shore's End\" Coming September 29",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1328",
+            "published": "2024-09-20 19:50:00"
+        },
+        "1336": {
+            "title": "Post-Lament Anthropocene: Comprehensive Mirror for Historians \u2014 The Black Shores",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1336",
+            "published": "2024-09-21 12:00:00"
+        },
+        "1345": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Fallacy of No Return",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1345",
+            "published": "2024-09-23 12:00:00"
+        },
+        "1354": {
+            "title": "Post-Lament Anthropocene: Weapons \u2014 Deep Sky Blazar",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1354",
+            "published": "2024-09-24 12:00:00"
+        },
+        "1361": {
+            "title": "New Map Preview | \"The Black Shores\" Opening Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1361",
+            "published": "2024-09-25 11:00:01"
+        },
+        "1365": {
+            "title": "Wutherium Geographic: Lands and Waters \u2014 The Black Shores Vol. 1",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1365",
+            "published": "2024-09-25 12:00:00"
+        },
+        "1374": {
+            "title": "Wuthering Waves Version 1.3 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1374",
+            "published": "2024-09-25 18:00:00"
+        },
+        "1386": {
+            "title": "Version 1.3 [The Black Shores] Special Leveling Events",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1386",
+            "published": "2024-09-26 14:30:00"
+        },
+        "1398": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | The Shorekeeper",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1398",
+            "published": "2024-09-27 12:00:00"
+        },
+        "1408": {
+            "title": "Wuthering Waves Update Preview | Version 1.3 \"To the Shore's End\" to be released on Sep 29th.",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1408",
+            "published": "2024-09-27 18:00:00"
+        },
+        "1419": {
+            "title": "Profile Reveal | Euphonic Chrysalis \u2014 The Shorekeeper",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1419",
+            "published": "2024-09-28 11:00:00"
+        },
+        "1420": {
+            "title": "[Till the Sea Turns Clear] Featured Resonator Convene: Boosted Drop Rate for Shorekeeper",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1420",
+            "published": "2024-09-28 18:00:00"
+        },
+        "1421": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stellar Symphony",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1421",
+            "published": "2024-09-28 18:15:00"
+        },
+        "1422": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Tactical Hologram: Inferno Rider",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1422",
+            "published": "2024-09-28 19:00:00"
+        },
+        "1381": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1381",
+            "published": "2024-09-28 20:00:00"
+        },
+        "1454": {
+            "title": "Version 1.3: To the Shore's End Patch Notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1454",
+            "published": "2024-09-29 10:16:24"
+        },
+        "1417": {
+            "title": "Wuthering Waves Fan Creation Event \"To the Shore's End\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1417",
+            "published": "2024-09-29 15:00:00"
+        },
+        "1473": {
+            "title": "[Fairy Tale's Finale] Featured Co-op Combat Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1473",
+            "published": "2024-09-30 11:00:00"
+        },
+        "1474": {
+            "title": "Wutherium Geographic: Lands and Waters \u2014 The Black Shores Vol. 2",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1474",
+            "published": "2024-09-30 12:00:00"
+        },
+        "1418": {
+            "title": "Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1418",
+            "published": "2024-09-30 20:00:00"
+        },
+        "1491": {
+            "title": "[Solaris Weather Forecast] Featured Platforming Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1491",
+            "published": "2024-10-09 11:00:00"
+        },
+        "1492": {
+            "title": "[Wuthering Exploration] Featured Exploration Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1492",
+            "published": "2024-10-09 18:00:01"
+        },
+        "1502": {
+            "title": "[Bountiful Crescendo] Limited-Time Material Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1502",
+            "published": "2024-10-16 11:00:00"
+        },
+        "1509": {
+            "title": "A Compilation of Upcoming Events in Wuthering Waves Version 1.3",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1509",
+            "published": "2024-10-18 12:00:00"
+        },
+        "1524": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Youhu",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1524",
+            "published": "2024-10-20 12:00:00"
+        },
+        "1525": {
+            "title": "Profile Reveal | Cryogenic Wonders \u2014 Youhu",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1525",
+            "published": "2024-10-21 12:00:00"
+        },
+        "1535": {
+            "title": "Developer's Message",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1535",
+            "published": "2024-10-21 21:00:44"
+        },
+        "1541": {
+            "title": "[Prevail the Lasting Night] Featured Resonator Convene: Boosted Drop Rate for Jiyan",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1541",
+            "published": "2024-10-23 11:00:00"
+        },
+        "1542": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Verdant Summit",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1542",
+            "published": "2024-10-23 11:05:00"
+        },
+        "1562": {
+            "title": "[Wuthering Exploration] Featured Exploration Event: Mt. Firmament",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1562",
+            "published": "2024-10-30 11:00:00"
+        },
+        "1567": {
+            "title": "Wuthering Waves Developer's Message",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1567",
+            "published": "2024-11-03 11:00:00"
+        },
+        "1573": {
+            "title": "Wuthering Waves Version Preview | Version 1.4 \"When the Night Knocks\" Coming November 14 (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1573",
+            "published": "2024-11-04 11:15:00"
+        },
+        "1588": {
+            "title": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1588",
+            "published": "2024-11-05 11:00:00"
+        },
+        "1596": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Camellya",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1596",
+            "published": "2024-11-07 12:00:00"
+        },
+        "1605": {
+            "title": "Profile Reveal | Crimson Blossom \u2014 Camellya",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1605",
+            "published": "2024-11-09 11:30:00"
+        },
+        "1606": {
+            "title": "Wuthering Waves Version 1.4 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1606",
+            "published": "2024-11-09 18:00:00"
+        },
+        "1607": {
+            "title": "Wuthering Waves Update Preview | Version 1.4 \"When the Night Knocks\" to be released on Nov 14th",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1607",
+            "published": "2024-11-10 11:00:00"
+        },
+        "1631": {
+            "title": "Event Preview | Somnium Labyrinth: Somnoire Adventure Event, Available Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1631",
+            "published": "2024-11-11 11:00:00"
+        },
+        "1644": {
+            "title": "[End of Lost Trail] Featured Resonator Convene: Boosted Drop Rate for Camellya",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1644",
+            "published": "2024-11-13 11:00:00"
+        },
+        "1645": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Red Spring",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1645",
+            "published": "2024-11-13 11:05:00"
+        },
+        "1646": {
+            "title": "Event Preview | Depths of Illusive Realm: Phantasm Amass, Available Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1646",
+            "published": "2024-11-13 18:00:00"
+        },
+        "1661": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1661",
+            "published": "2024-11-13 19:00:00"
+        },
+        "1647": {
+            "title": "Version 1.4: When the Night Knocks Patch Notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1647",
+            "published": "2024-11-14 08:00:00"
+        },
+        "1671": {
+            "title": "Wuthering Waves Fan Creation Event \"When the night knocks\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1671",
+            "published": "2024-11-14 12:00:00"
+        },
+        "1678": {
+            "title": "V1.4 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1678",
+            "published": "2024-11-14 18:00:00"
+        },
+        "1693": {
+            "title": "[Beyond the Waves] Featured Exploration Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1693",
+            "published": "2024-11-20 11:00:00"
+        },
+        "1715": {
+            "title": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1715",
+            "published": "2024-12-04 11:00:00"
+        },
+        "1728": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Lumi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1728",
+            "published": "2024-12-05 12:00:00"
+        },
+        "1734": {
+            "title": "Profile Reveal | Kaleido Refraction \u2014 Lumi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1734",
+            "published": "2024-12-06 12:00:00"
+        },
+        "1738": {
+            "title": "Upcoming Events in Wuthering Waves Version 1.4",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1738",
+            "published": "2024-12-09 11:00:00"
+        },
+        "1770": {
+            "title": "[Celestial Revelation] Featured Resonator Convene: Boosted Drop Rate for Xiangli Yao",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1770",
+            "published": "2024-12-11 11:00:00"
+        },
+        "1768": {
+            "title": "[When Thunder Pours] Featured Resonator Convene: Boosted Drop Rate for Yinlin",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1768",
+            "published": "2024-12-11 11:00:00"
+        },
+        "1771": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Verity's Handle",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1771",
+            "published": "2024-12-11 11:05:00"
+        },
+        "1769": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stringmaster",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1769",
+            "published": "2024-12-11 11:05:00"
+        },
+        "1772": {
+            "title": "Update on Shipping Delay for Select Winter Invitation Merchandise",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1772",
+            "published": "2024-12-11 12:00:00"
+        },
+        "1788": {
+            "title": "[Tactical Simulacra II] Featured Combat Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1788",
+            "published": "2024-12-18 11:00:00"
+        },
+        "1795": {
+            "title": "Wuthering Waves Version Update Preview | Version 2.0 All Silent Souls Can Sing Planned for Release on Jan 02, 2025",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1795",
+            "published": "2024-12-21 19:55:00"
+        },
+        "1797": {
+            "title": "A Sneak Peek of Adventures in Rinascita | Echo Gameplays",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1797",
+            "published": "2024-12-22 18:00:00"
+        },
+        "1803": {
+            "title": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1803",
+            "published": "2024-12-24 11:00:00"
+        },
+        "1809": {
+            "title": "A Sneak Peek of Adventures in Rinascita | Collectibles and Challenges",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1809",
+            "published": "2024-12-24 12:00:00"
+        },
+        "1810": {
+            "title": "Jinhsi's Premium Outfit \"Peach Blossom\"",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1810",
+            "published": "2024-12-26 12:30:00"
+        },
+        "1821": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Collection of Small & Medium Size Echoes in Rinascita",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1821",
+            "published": "2024-12-27 16:00:00"
+        },
+        "1822": {
+            "title": "Wuthering Waves Version 2.0 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1822",
+            "published": "2024-12-27 18:00:00"
+        },
+        "1840": {
+            "title": "Post-Lament Anthropocene: Weapons \u2014 Poetry and Paean Series",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1840",
+            "published": "2024-12-28 12:00:00"
+        },
+        "1852": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Carlotta",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1852",
+            "published": "2024-12-30 15:30:00"
+        },
+        "1846": {
+            "title": "Profile Reveal | Crystal Remorph \u2014 Carlotta",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1846",
+            "published": "2024-12-30 16:00:00"
+        },
+        "1864": {
+            "title": "Wuthering Waves Update Preview | Version 2.0 \"All Silent Souls Can Sing\" to be released on Jan 2nd, 2025 (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1864",
+            "published": "2024-12-31 11:00:00"
+        },
+        "1871": {
+            "title": "Retrospective | Enchanted Brush \u2014 Zhezhi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1871",
+            "published": "2024-12-31 12:00:00"
+        },
+        "1881": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Sentry Construct",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1881",
+            "published": "2024-12-31 17:00:00"
+        },
+        "1897": {
+            "title": "[When Silence Tolls] Featured Resonator Convene: Boosted Drop Rate for Carlotta",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1897",
+            "published": "2025-01-01 11:00:00"
+        },
+        "1898": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for The Last Dance",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1898",
+            "published": "2025-01-01 11:05:00"
+        },
+        "1899": {
+            "title": "[Chromatic Prose] Featured Resonator Convene: Boosted Drop Rate for Zhezhi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1899",
+            "published": "2025-01-01 11:10:00"
+        },
+        "1901": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Rime-Draped Sprouts",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1901",
+            "published": "2025-01-01 11:15:00"
+        },
+        "1905": {
+            "title": "Event Preview | Tactical Hologram: Phantom Pain Available Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1905",
+            "published": "2025-01-01 12:00:00"
+        },
+        "1908": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Lorelei",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1908",
+            "published": "2025-01-01 17:00:00"
+        },
+        "1883": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1883",
+            "published": "2025-01-01 20:00:00"
+        },
+        "1912": {
+            "title": "Version 2.0: All Silent Souls Can Sing Patch Notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1912",
+            "published": "2025-01-02 09:30:00"
+        },
+        "1929": {
+            "title": "V2.0 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1929",
+            "published": "2025-01-02 15:00:00"
+        },
+        "1935": {
+            "title": "Wuthering Waves Fan Creation Event \"All Silent Souls Can Sing\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1935",
+            "published": "2025-01-02 20:00:00"
+        },
+        "1858": {
+            "title": "FAQ \u2013 PlayStation\u00ae5",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1858",
+            "published": "2025-01-06 20:42:42"
+        },
+        "1945": {
+            "title": "V2.0 WUWA Discord Quest Event Begins!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1945",
+            "published": "2025-01-07 09:00:00"
+        },
+        "1954": {
+            "title": "[Although Colors Have No Form] Featured Co-op Challenge Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1954",
+            "published": "2025-01-08 11:00:00"
+        },
+        "1967": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Hecate",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1967",
+            "published": "2025-01-09 15:00:00"
+        },
+        "1959": {
+            "title": "How to Use Wuwa Bot?",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1959",
+            "published": "2025-01-14 10:30:00"
+        },
+        "1984": {
+            "title": "[Wuthering Exploration] Featured Exploration Event: Nimbus Sanctum",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1984",
+            "published": "2025-01-15 11:00:00"
+        },
+        "1985": {
+            "title": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1985",
+            "published": "2025-01-15 12:00:00"
+        },
+        "1989": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Roccia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/1989",
+            "published": "2025-01-16 12:30:00"
+        },
+        "2000": {
+            "title": "Profile Reveal | Stage in the Box \u2014 Roccia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2000",
+            "published": "2025-01-17 12:30:00"
+        },
+        "2009": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Dragon of Dirge",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2009",
+            "published": "2025-01-18 18:00:00"
+        },
+        "2015": {
+            "title": "Sanhua's Signature Outfit \"Exorcistic Adjuration\"",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2015",
+            "published": "2025-01-20 18:00:00"
+        },
+        "2021": {
+            "title": "Upcoming Events in Wuthering Waves Version 2.0",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2021",
+            "published": "2025-01-21 12:00:00"
+        },
+        "2044": {
+            "title": "[Stage in the Box] Featured Resonator Convene: Boosted Drop Rate for Roccia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2044",
+            "published": "2025-01-22 11:00:00"
+        },
+        "2045": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Tragicomedy",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2045",
+            "published": "2025-01-22 11:10:00"
+        },
+        "2046": {
+            "title": "[Thawborn Renewal] Featured Resonator Convene: Boosted Drop Rate for Jinhsi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2046",
+            "published": "2025-01-22 11:15:00"
+        },
+        "2047": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Ages of Harvest",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2047",
+            "published": "2025-01-22 11:20:00"
+        },
+        "2065": {
+            "title": "[Celebration Aftertunes] Gratitude for Companionship",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2065",
+            "published": "2025-01-28 11:00:00"
+        },
+        "2066": {
+            "title": "[Lollo Campaign: Comeback] Featured Commission Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2066",
+            "published": "2025-01-28 12:00:00"
+        },
+        "2069": {
+            "title": "[Bountiful Crescendo] Limited-Time Material Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2069",
+            "published": "2025-02-05 11:00:00"
+        },
+        "2072": {
+            "title": "Wuthering Waves Version 2.1 \"Waves Sing, and the Cerulean Bird Calls\" is coming soon.",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2072",
+            "published": "2025-02-07 19:55:00"
+        },
+        "2083": {
+            "title": "Wuthering Waves Version 2.1 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2083",
+            "published": "2025-02-08 11:00:00"
+        },
+        "2091": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Collection of Small & Medium Size Echoes in Rinascita",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2091",
+            "published": "2025-02-08 15:00:00"
+        },
+        "2094": {
+            "title": "Whimpering Wastes Available Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2094",
+            "published": "2025-02-08 20:00:00"
+        },
+        "2100": {
+            "title": "Event Preview | [Old Man and the Whale] Fishing Adventure Event Available Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2100",
+            "published": "2025-02-09 12:00:00"
+        },
+        "2101": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Phoebe",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2101",
+            "published": "2025-02-09 18:00:00"
+        },
+        "2106": {
+            "title": "Profile Reveal | Graceful Luminescence \u2014 Phoebe",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2106",
+            "published": "2025-02-10 12:00:00"
+        },
+        "2112": {
+            "title": "Special Combat Mechanics Explain | Negative Status",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2112",
+            "published": "2025-02-10 12:30:00"
+        },
+        "2115": {
+            "title": "Fantasies of the Thousand Gateways Available Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2115",
+            "published": "2025-02-10 19:00:00"
+        },
+        "2123": {
+            "title": "Waves Sing, and the Cerulean Bird Calls \u2014 Version 2.1 Update Content",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2123",
+            "published": "2025-02-11 16:00:00"
+        },
+        "2141": {
+            "title": "[With Hushed Whispers] Featured Resonator Convene: Boosted Drop Rate for Phoebe",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2141",
+            "published": "2025-02-12 17:57:07"
+        },
+        "2142": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Luminous Hymn",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2142",
+            "published": "2025-02-12 18:00:10"
+        },
+        "2135": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2135",
+            "published": "2025-02-12 19:00:00"
+        },
+        "2154": {
+            "title": "Patch Notes for Version 2.1: Waves Sing, and the Cerulean Bird Calls",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2154",
+            "published": "2025-02-13 10:00:00"
+        },
+        "2153": {
+            "title": "V2.1 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2153",
+            "published": "2025-02-13 12:00:00"
+        },
+        "2162": {
+            "title": "Wuthering Waves Fan Creation Event \"Waves Sing, and the Cerulean Bird Calls\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2162",
+            "published": "2025-02-13 21:00:00"
+        },
+        "2173": {
+            "title": "[Apex Ragunna] Featured Co-op Overdash Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2173",
+            "published": "2025-02-18 11:00:00"
+        },
+        "2180": {
+            "title": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2180",
+            "published": "2025-02-19 12:00:00"
+        },
+        "2193": {
+            "title": "[Tactical Simulacra \u2162] Featured Combat Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2193",
+            "published": "2025-02-26 11:00:00"
+        },
+        "2204": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Brant",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2204",
+            "published": "2025-03-01 12:00:00"
+        },
+        "2192": {
+            "title": "Profile Reveal | Flamebound Compass \u2014 Brant",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2192",
+            "published": "2025-03-02 11:10:00"
+        },
+        "2219": {
+            "title": "Upcoming Events in Wuthering Waves Version 2.1",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2219",
+            "published": "2025-03-04 17:00:00"
+        },
+        "2226": {
+            "title": "[Blaze Across the Deep] Featured Resonator Convene: Boosted Drop Rate for Brant",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2226",
+            "published": "2025-03-05 11:00:00"
+        },
+        "2227": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Unflickering Valor",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2227",
+            "published": "2025-03-05 11:15:00"
+        },
+        "2228": {
+            "title": "[Vermillion's Ploy] Featured Resonator Convene: Boosted Drop Rate for Changli",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2228",
+            "published": "2025-03-05 11:30:00"
+        },
+        "2229": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Brilliance",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2229",
+            "published": "2025-03-05 11:45:00"
+        },
+        "2261": {
+            "title": "[Beyond the Waves] Featured Exploration Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2261",
+            "published": "2025-03-12 11:00:00"
+        },
+        "2273": {
+            "title": "[Bountiful Crescendo] Limited-Time Material Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2273",
+            "published": "2025-03-20 11:00:00"
+        },
+        "2297": {
+            "title": "Wuthering Waves Version Update Preview | Version 2.2 \"Tangled Truth in Inverted Tower\" Planned for Release on March 27, 2025 (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2297",
+            "published": "2025-03-21 19:55:00"
+        },
+        "2302": {
+            "title": "Wuthering Waves Version 2.2 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2302",
+            "published": "2025-03-22 11:00:00"
+        },
+        "2311": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Cantarella",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2311",
+            "published": "2025-03-22 15:00:00"
+        },
+        "2303": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Collection of Small & Medium Size Echoes in Rinascita",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2303",
+            "published": "2025-03-22 15:00:00"
+        },
+        "2305": {
+            "title": "Profile Reveal | Vessel of Sounds \u2014 Rover: Aero",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2305",
+            "published": "2025-03-22 18:00:00"
+        },
+        "2310": {
+            "title": "Profile Reveal | Sea of Dreams \u2014 Cantarella",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2310",
+            "published": "2025-03-23 11:05:00"
+        },
+        "2317": {
+            "title": "New Region Preview | Avinoleum Theological Seminary, Available Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2317",
+            "published": "2025-03-24 12:00:00"
+        },
+        "2329": {
+            "title": "Wuthering Waves Update Content | Version 2.2 \"Tangled Truth in Inverted Tower\" Planned for Release on March 27(UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2329",
+            "published": "2025-03-25 16:00:00"
+        },
+        "2340": {
+            "title": "[Neptune's Lullaby] Featured Resonator Convene: Boosted Drop Rate for Cantarella",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2340",
+            "published": "2025-03-26 11:00:00"
+        },
+        "2342": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Whispers of Sirens",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2342",
+            "published": "2025-03-26 11:15:00"
+        },
+        "2341": {
+            "title": "[End of Lost Trail] Featured Resonator Convene: Boosted Drop Rate for Camellya",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2341",
+            "published": "2025-03-26 11:30:00"
+        },
+        "2343": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Red Spring",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2343",
+            "published": "2025-03-26 11:45:00"
+        },
+        "2364": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Fleurdelys",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2364",
+            "published": "2025-03-26 17:00:00"
+        },
+        "2369": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2369",
+            "published": "2025-03-26 21:00:00"
+        },
+        "2381": {
+            "title": "Version 2.2: Tangled Truth in Inverted Tower Patch Notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2381",
+            "published": "2025-03-27 10:00:00"
+        },
+        "2382": {
+            "title": "Wuthering Waves Fan Creation Event \"Tangled Truth in Inverted Tower\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2382",
+            "published": "2025-03-27 12:00:00"
+        },
+        "2383": {
+            "title": "V2.2 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2383",
+            "published": "2025-03-27 18:00:00"
+        },
+        "2396": {
+            "title": "[Virtual Crisis: Prototype Trials] Crisis Trial Challenge Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2396",
+            "published": "2025-04-02 11:00:00"
+        },
+        "2404": {
+            "title": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2404",
+            "published": "2025-04-06 11:00:00"
+        },
+        "2415": {
+            "title": "[Lollo Campaign: Set Sail] Featured Commission Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2415",
+            "published": "2025-04-09 11:00:00"
+        },
+        "2422": {
+            "title": "[Ragunna Weather Forecast] Featured Platforming Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2422",
+            "published": "2025-04-09 12:00:00"
+        },
+        "2432": {
+            "title": "[Wuthering Exploration] Featured Exploration Event: Whisperwind Haven",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2432",
+            "published": "2025-04-13 11:00:00"
+        },
+        "2443": {
+            "title": "Notice on the Upgrade and Maintenance of the [Reprise of Tides] Returnee Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2443",
+            "published": "2025-04-14 17:54:18"
+        },
+        "2452": {
+            "title": "[Till the Sea Turns Clear] Featured Resonator Convene: Boosted Drop Rate for Shorekeeper",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2452",
+            "published": "2025-04-16 11:00:00"
+        },
+        "2459": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stellar Symphony",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2459",
+            "published": "2025-04-16 11:15:00"
+        },
+        "2465": {
+            "title": "Upcoming Events in Wuthering Waves Version 2.2",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2465",
+            "published": "2025-04-16 17:08:51"
+        },
+        "2466": {
+            "title": "Resonator Review | Euphonic Chrysalis\u2014Shorekeeper",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2466",
+            "published": "2025-04-16 17:09:57"
+        },
+        "2485": {
+            "title": "Wuthering Waves Version Preview | Version 2.3",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2485",
+            "published": "2025-04-19 20:55:00"
+        },
+        "2487": {
+            "title": "Wuthering Waves Version 2.3 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2487",
+            "published": "2025-04-23 11:00:00"
+        },
+        "2500": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Zani",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2500",
+            "published": "2025-04-24 13:00:00"
+        },
+        "2504": {
+            "title": "Event Preview | [Cube, Cubic n Cubie] Anniversary Combat Event, Available Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2504",
+            "published": "2025-04-25 12:00:00"
+        },
+        "2509": {
+            "title": "Profile Reveal | Scorched Radiance \u2014 Zani",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2509",
+            "published": "2025-04-26 12:00:00"
+        },
+        "2513": {
+            "title": "Event Preview | [Cubie Derby] Anniversary Events, Available Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2513",
+            "published": "2025-04-26 18:00:00"
+        },
+        "2517": {
+            "title": "Wuthering Waves Update Content | Version 2.3 \"Fiery Arpeggio of Summer Reunion\" Planned for Release on April 29 (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2517",
+            "published": "2025-04-27 18:00:00"
+        },
+        "2524": {
+            "title": "Tactical Hologram Update, Available Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2524",
+            "published": "2025-04-28 15:00:00"
+        },
+        "2527": {
+            "title": "Anniversary Resonator Convene: Phase I",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2527",
+            "published": "2025-04-28 18:00:00"
+        },
+        "2532": {
+            "title": "[Between Light and Shadow] Featured Resonator Convene: Boosted Drop Rate for Zani",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2532",
+            "published": "2025-04-28 18:14:56"
+        },
+        "2533": {
+            "title": "[Anniversary Resonator Convene: Phase I]",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2533",
+            "published": "2025-04-28 18:16:12"
+        },
+        "2534": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Justice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2534",
+            "published": "2025-04-28 18:17:24"
+        },
+        "2535": {
+            "title": "[Anniversary Weapon Convene: Phase I]",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2535",
+            "published": "2025-04-28 18:18:11"
+        },
+        "2520": {
+            "title": "Reminder Regarding Recent Complaints About Unauthorized Payment Platforms",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2520",
+            "published": "2025-04-29 09:00:00"
+        },
+        "2561": {
+            "title": "Version 2.3: Fiery Arpeggio of Summer Reunion Patch Notes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2561",
+            "published": "2025-04-29 10:00:00"
+        },
+        "2564": {
+            "title": "[Tidal Photography] Now seeking top photographers for Solaris!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2564",
+            "published": "2025-04-29 13:00:00"
+        },
+        "2569": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2569",
+            "published": "2025-04-29 14:00:00"
+        },
+        "2577": {
+            "title": "Wuthering Waves Fan Creation Event \"Fiery Arpeggio of Summer Reunion\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2577",
+            "published": "2025-04-29 19:00:00"
+        },
+        "2578": {
+            "title": "V2.3 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2578",
+            "published": "2025-04-29 20:00:00"
+        },
+        "2584": {
+            "title": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2584",
+            "published": "2025-04-30 16:52:36"
+        },
+        "2602": {
+            "title": "[Cubie Derby] Anniversary Spectator Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2602",
+            "published": "2025-05-13 11:00:00"
+        },
+        "2613": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Ciaccona",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2613",
+            "published": "2025-05-17 11:00:00"
+        },
+        "2616": {
+            "title": "Profile Reveal | Woven Melodies \u2014 Ciaccona",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2616",
+            "published": "2025-05-18 11:05:00"
+        },
+        "2626": {
+            "title": "Event Preview | Dreaming Deep: Solaris Film Festival, Available Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2626",
+            "published": "2025-05-19 11:00:00"
+        },
+        "2631": {
+            "title": "A Compilation of Upcoming Events in Version 2.3",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2631",
+            "published": "2025-05-20 17:00:00"
+        },
+        "2635": {
+            "title": "Anniversary Resonator Convene: Phase II",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2635",
+            "published": "2025-05-20 18:00:00"
+        },
+        "2640": {
+            "title": "[Through Verses and Rhythms] Featured Resonator Convene: Boosted Drop Rate for Ciaccona",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2640",
+            "published": "2025-05-21 10:00:00"
+        },
+        "2647": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Woodland Aria",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2647",
+            "published": "2025-05-21 10:15:00"
+        },
+        "2654": {
+            "title": "[Anniversary Resonator Convene: Phase II]",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2654",
+            "published": "2025-05-21 10:30:00"
+        },
+        "2662": {
+            "title": "[Anniversary Weapon Convene: Phase II]",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2662",
+            "published": "2025-05-21 10:45:00"
+        },
+        "2669": {
+            "title": "[Bundles] Tidal Festivities Edition",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2669",
+            "published": "2025-05-21 11:00:00"
+        },
+        "2684": {
+            "title": "[Gifts of Grand Celebration] Anniversary Limited-Time Login Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2684",
+            "published": "2025-05-23 11:00:00"
+        },
+        "2691": {
+            "title": "[Beyond the Waves: Rinascita] Featured Exploration Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2691",
+            "published": "2025-05-28 10:00:00"
+        },
+        "2699": {
+            "title": "Wuthering Waves Version Preview | Version 2.4",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2699",
+            "published": "2025-05-30 19:45:00"
+        },
+        "2700": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Collection of Small & Medium Size Echoes in Septimont",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2700",
+            "published": "2025-05-31 15:00:00"
+        },
+        "2712": {
+            "title": "\u2726An Undisclosed Interview Record\u2726",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2712",
+            "published": "2025-06-02 11:00:00"
+        },
+        "2721": {
+            "title": "Event Preview | [All Out! Towards the Peaks of Prestige] Echo Combat Event, Available Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2721",
+            "published": "2025-06-05 11:00:00"
+        },
+        "2720": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Lioness of Glory",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2720",
+            "published": "2025-06-05 15:00:00"
+        },
+        "2733": {
+            "title": "Wuthering Waves Version 2.4 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2733",
+            "published": "2025-06-06 10:00:00"
+        },
+        "2743": {
+            "title": "Carlotta's Deluxe Outfit \"Splashing Summer\"",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2743",
+            "published": "2025-06-06 18:00:00"
+        },
+        "2742": {
+            "title": "Changli's Deluxe Outfit \"Laurel Nymph\"",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2742",
+            "published": "2025-06-06 18:05:00"
+        },
+        "2748": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Cartethyia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2748",
+            "published": "2025-06-07 18:00:00"
+        },
+        "2752": {
+            "title": "New Region Preview | Septimont, Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2752",
+            "published": "2025-06-08 16:00:00"
+        },
+        "2755": {
+            "title": "Profile Reveal | Feathered Tempest \u2014 Cartethyia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2755",
+            "published": "2025-06-10 13:30:00"
+        },
+        "2762": {
+            "title": "Wuthering Waves Update Content | Version 2.4 \"Lightly We Toss the Crown\" Planned for Release on June 12 (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2762",
+            "published": "2025-06-10 18:00:00"
+        },
+        "2766": {
+            "title": "[Dance in the Storm's Wake] Featured Resonator Convene: Boosted Drop Rate for Cartethyia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2766",
+            "published": "2025-06-11 11:00:00"
+        },
+        "2773": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Defier's Thorn",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2773",
+            "published": "2025-06-11 11:05:00"
+        },
+        "2788": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Nightmare: Kelpie",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2788",
+            "published": "2025-06-11 15:00:00"
+        },
+        "2801": {
+            "title": "Patch Notes for Version 2.4: Lightly We Toss the Crown",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2801",
+            "published": "2025-06-12 10:00:00"
+        },
+        "2810": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2810",
+            "published": "2025-06-12 14:30:00"
+        },
+        "2808": {
+            "title": "Wuthering Waves Fan Creation Event \"Lightly We Toss the Crown\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2808",
+            "published": "2025-06-12 15:00:00"
+        },
+        "2809": {
+            "title": "V2.4 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2809",
+            "published": "2025-06-12 17:00:00"
+        },
+        "2753": {
+            "title": "Wuthering Waves x Twitch: Support a Streamer is now underway!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2753",
+            "published": "2025-06-12 18:30:00"
+        },
+        "2802": {
+            "title": "V2.4 WUWA Discord Quest Event is Now Live",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2802",
+            "published": "2025-06-13 09:00:00"
+        },
+        "2826": {
+            "title": "[Virtual Crisis: Frontier Trials] Crisis Trial Challenge Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2826",
+            "published": "2025-06-18 10:00:00"
+        },
+        "2839": {
+            "title": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2839",
+            "published": "2025-06-25 11:00:00"
+        },
+        "2850": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Lupa",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2850",
+            "published": "2025-06-27 12:00:00"
+        },
+        "2856": {
+            "title": "Profile Reveal | Howling Flame\u2014Lupa",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2856",
+            "published": "2025-06-28 11:05:00"
+        },
+        "2861": {
+            "title": "Upcoming Events in Wuthering Waves Version 2.4",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2861",
+            "published": "2025-06-30 18:00:00"
+        },
+        "2867": {
+            "title": "[Roar of Triumph] Featured Resonator Convene: Boosted Drop Rate for Lupa",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2867",
+            "published": "2025-07-02 11:00:00"
+        },
+        "2874": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Wildfire Mark",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2874",
+            "published": "2025-07-02 11:05:00"
+        },
+        "2886": {
+            "title": "Cinematic Stills",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2886",
+            "published": "2025-07-08 12:10:00"
+        },
+        "2891": {
+            "title": "[Lollo Campaign: Verification] Featured Commission Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2891",
+            "published": "2025-07-09 11:00:00"
+        },
+        "2901": {
+            "title": "Wuthering Waves Version Update Preview | Version 2.5",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2901",
+            "published": "2025-07-18 19:55:00"
+        },
+        "2908": {
+            "title": "Wuthering Waves Version 2.5 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2908",
+            "published": "2025-07-19 11:00:00"
+        },
+        "2906": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Phrolova",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2906",
+            "published": "2025-07-19 12:00:00"
+        },
+        "2907": {
+            "title": "Profile Reveal | Symphony of Beyond \u2014 Phrolova",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2907",
+            "published": "2025-07-20 11:05:00"
+        },
+        "2927": {
+            "title": "Wuthering Waves Update Content | Version 2.5 \"Unfading Melody of Life\" Planned for Release on July 24 (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2927",
+            "published": "2025-07-22 18:00:00"
+        },
+        "2936": {
+            "title": "[Requiem Without End] Featured Resonator Convene: Boosted Drop Rate for Phrolova",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2936",
+            "published": "2025-07-23 11:00:00"
+        },
+        "2943": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lethean Elegy",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2943",
+            "published": "2025-07-23 11:05:00"
+        },
+        "2950": {
+            "title": "[Stage in the Box] Featured Resonator Convene: Boosted Drop Rate for Roccia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2950",
+            "published": "2025-07-23 11:10:00"
+        },
+        "2957": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Tragicomedy",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2957",
+            "published": "2025-07-23 11:15:00"
+        },
+        "2963": {
+            "title": "Resonator Review | Stage in the Box \u2014 Roccia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2963",
+            "published": "2025-07-23 15:00:00"
+        },
+        "2967": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2967",
+            "published": "2025-07-23 20:00:00"
+        },
+        "2966": {
+            "title": "Patch Notes for Version 2.5: Unfading Melody of Life",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2966",
+            "published": "2025-07-24 10:00:00"
+        },
+        "2981": {
+            "title": "Wuthering Waves Fan Creation Event \"Unfading Melody of Life\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2981",
+            "published": "2025-07-24 15:00:00"
+        },
+        "2989": {
+            "title": "V2.5 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2989",
+            "published": "2025-07-24 18:00:00"
+        },
+        "2991": {
+            "title": "Event Preview | [Phantasma Dreamland] Echo Dreamland Leisure Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2991",
+            "published": "2025-07-25 12:00:00"
+        },
+        "2992": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Fenrico",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/2992",
+            "published": "2025-07-26 19:00:00"
+        },
+        "3002": {
+            "title": "[Overflowing Picture Book] Leisure Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3002",
+            "published": "2025-08-06 11:00:00"
+        },
+        "3012": {
+            "title": "Upcoming Events in Wuthering Waves Version 2.5",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3012",
+            "published": "2025-08-12 18:00:00"
+        },
+        "3017": {
+            "title": "[Neptune's Lullaby] Featured Resonator Convene: Boosted Drop Rate for Cantarella",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3017",
+            "published": "2025-08-13 11:00:00"
+        },
+        "3025": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Whispers of Sirens",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3025",
+            "published": "2025-08-13 11:05:00"
+        },
+        "3035": {
+            "title": "[Blaze Across the Deep] Featured Resonator Convene: Boosted Drop Rate for Brant",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3035",
+            "published": "2025-08-13 11:10:00"
+        },
+        "3042": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Unflickering Valor",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3042",
+            "published": "2025-08-13 11:15:00"
+        },
+        "3049": {
+            "title": "Resonator Review | Flamebound Compass\u2014Brant",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3049",
+            "published": "2025-08-13 17:00:00"
+        },
+        "3050": {
+            "title": "Resonator Review | Sea of Dreams\u2014Cantarella",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3050",
+            "published": "2025-08-13 18:00:00"
+        },
+        "3070": {
+            "title": "Wuthering Waves Version Preview | Version 2.6",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3070",
+            "published": "2025-08-16 19:55:00"
+        },
+        "3078": {
+            "title": "[Bountiful Crescendo] Limited-Time Material Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3078",
+            "published": "2025-08-17 11:00:00"
+        },
+        "3071": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Lady of the Sea",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3071",
+            "published": "2025-08-17 18:00:00"
+        },
+        "3075": {
+            "title": "Wuthering Waves Version 2.6 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3075",
+            "published": "2025-08-18 11:00:00"
+        },
+        "3088": {
+            "title": "[Fantasies of the Thousand Gateways] Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3088",
+            "published": "2025-08-18 18:00:00"
+        },
+        "3095": {
+            "title": "Post-Lament Anthropocene: Weapons \u2014 Hunter's Growl",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3095",
+            "published": "2025-08-19 11:00:00"
+        },
+        "3103": {
+            "title": "New Area Preview | Sanguis Plateaus, Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3103",
+            "published": "2025-08-22 18:00:00"
+        },
+        "3115": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Augusta",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3115",
+            "published": "2025-08-23 12:00:00"
+        },
+        "3120": {
+            "title": "Profile Reveal | Magnetism Before Light\u2014Augusta",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3120",
+            "published": "2025-08-24 11:05:00"
+        },
+        "3128": {
+            "title": "Wuthering Waves Update Content | Version 2.6 \"By Sun's Scourge, By Moon's Revelation\" Planned for Release on August 28 (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3128",
+            "published": "2025-08-25 18:00:00"
+        },
+        "3132": {
+            "title": "Resonator Review | Euphonic Chrysalis\u2014The Shorekeeper",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3132",
+            "published": "2025-08-26 18:00:00"
+        },
+        "3154": {
+            "title": "[Eternal Radiance on the Crown] Featured Resonator Convene: Boosted Drop Rate for Augusta",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3154",
+            "published": "2025-08-27 11:00:00"
+        },
+        "3155": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Thunderflare Dominion",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3155",
+            "published": "2025-08-27 11:05:00"
+        },
+        "3157": {
+            "title": "[When Silence Tolls] Featured Resonator Convene: Boosted Drop Rate for Carlotta",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3157",
+            "published": "2025-08-27 11:10:00"
+        },
+        "3164": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for The Last Dance",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3164",
+            "published": "2025-08-27 11:15:00"
+        },
+        "3171": {
+            "title": "[Till the Sea Turns Clear] Featured Resonator Convene: Boosted Drop Rate for Shorekeeper",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3171",
+            "published": "2025-08-27 11:20:00"
+        },
+        "3178": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Stellar Symphony",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3178",
+            "published": "2025-08-27 11:25:00"
+        },
+        "3140": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 The False Sovereign",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3140",
+            "published": "2025-08-27 17:00:00"
+        },
+        "3193": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3193",
+            "published": "2025-08-27 20:00:00"
+        },
+        "3194": {
+            "title": "Patch Notes for Version 2.6: By Sun's Scourge, By Moon's Revelation",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3194",
+            "published": "2025-08-28 10:00:00"
+        },
+        "3209": {
+            "title": "Wuthering Waves Fan Creation Event \"By Sun's Scourge, By Moon's Revelation\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3209",
+            "published": "2025-08-28 15:00:00"
+        },
+        "3192": {
+            "title": "V2.6 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3192",
+            "published": "2025-08-28 17:00:00"
+        },
+        "3216": {
+            "title": "Event Preview | [Tidal Defense Simulator] Tacet Discord Tower Defense Event, Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3216",
+            "published": "2025-08-29 16:00:00"
+        },
+        "3215": {
+            "title": "Wuthering Waves [Tidal Photography]: The Search for Solaris' Top Photographers Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3215",
+            "published": "2025-08-29 17:00:00"
+        },
+        "3223": {
+            "title": "[Marks of the Wild] Limited-Time Puzzle Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3223",
+            "published": "2025-09-02 11:00:00"
+        },
+        "3230": {
+            "title": "[Bountiful Crescendo] Limited-Time Material Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3230",
+            "published": "2025-09-10 10:00:00"
+        },
+        "3242": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Iuno",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3242",
+            "published": "2025-09-12 12:00:00"
+        },
+        "3252": {
+            "title": "Profile Reveal | Stasis, Cycle, Renewal \u2014 Iuno",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3252",
+            "published": "2025-09-13 11:05:00"
+        },
+        "3253": {
+            "title": "Upcoming Events in Wuthering Waves Version 2.6",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3253",
+            "published": "2025-09-14 18:00:00"
+        },
+        "3255": {
+            "title": "Resonator Review | Woven Melodies \u2014 Ciaccona",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3255",
+            "published": "2025-09-15 18:00:00"
+        },
+        "3260": {
+            "title": "[Across Time's Waxes and Wanes] Featured Resonator Convene: Boosted Drop Rate for Iuno",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3260",
+            "published": "2025-09-16 11:00:00"
+        },
+        "3267": {
+            "title": "[Through Verses and Rhythms] Featured Resonator Convene: Boosted Drop Rate for Ciaccona",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3267",
+            "published": "2025-09-16 11:05:00"
+        },
+        "3274": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Moongazer's Sigil",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3274",
+            "published": "2025-09-16 11:10:00"
+        },
+        "3281": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Woodland Aria",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3281",
+            "published": "2025-09-16 11:15:00"
+        },
+        "3288": {
+            "title": "[Second Coming of Solaris (Ultra)] Leisure Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3288",
+            "published": "2025-09-16 16:00:00"
+        },
+        "3295": {
+            "title": "[Gifts of the Moon Roamer] Event Details",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3295",
+            "published": "2025-09-16 18:00:00"
+        },
+        "3317": {
+            "title": "[Moonlit Revelation] Lunar Phase Divination Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3317",
+            "published": "2025-09-24 11:00:00"
+        },
+        "3323": {
+            "title": "[Beyond the Waves: Rinascita] Featured Exploration Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3323",
+            "published": "2025-09-24 11:30:00"
+        },
+        "3310": {
+            "title": "Wuthering Waves Version Preview | Version 2.7 \"Dawn Breaks on Dark Tides\" Scheduled for Release on October 9th (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3310",
+            "published": "2025-09-26 19:55:00"
+        },
+        "3365": {
+            "title": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3365",
+            "published": "2025-09-30 10:00:00"
+        },
+        "3340": {
+            "title": "Wuthering Waves Version 2.7 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3340",
+            "published": "2025-10-02 18:00:00"
+        },
+        "3371": {
+            "title": "Notes on promotional event a certain platform",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3371",
+            "published": "2025-10-03 16:24:44"
+        },
+        "3336": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Galbrena",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3336",
+            "published": "2025-10-04 11:00:00"
+        },
+        "3363": {
+            "title": "Profile Reveal | Infernal Descent \u2014 Galbrena",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3363",
+            "published": "2025-10-05 11:05:00"
+        },
+        "3332": {
+            "title": "Wuthering Waves Update Content | Version 2.7 \"Dawn Breaks on Dark Tides\" Planned for Release on October 9 (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3332",
+            "published": "2025-10-06 18:00:00"
+        },
+        "3337": {
+            "title": "Resonator Review | Howling Flame\u2014Lupa",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3337",
+            "published": "2025-10-07 18:00:00"
+        },
+        "3380": {
+            "title": "[From Ashes] Featured Resonator Convene: Boosted Drop Rate for Galbrena",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3380",
+            "published": "2025-10-08 11:00:00"
+        },
+        "3387": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lux & Umbra",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3387",
+            "published": "2025-10-08 11:05:00"
+        },
+        "3394": {
+            "title": "[Roar of Triumph] Featured Resonator Convene: Boosted Drop Rate for Lupa",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3394",
+            "published": "2025-10-08 11:10:00"
+        },
+        "3401": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Wildfire Mark",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3401",
+            "published": "2025-10-08 11:15:00"
+        },
+        "3412": {
+            "title": "Patch Notes for Version 2.7: Dawn Breaks on Dark Tides",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3412",
+            "published": "2025-10-09 10:00:00"
+        },
+        "3415": {
+            "title": "V2.7 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3415",
+            "published": "2025-10-09 17:00:00"
+        },
+        "3419": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3419",
+            "published": "2025-10-09 21:00:00"
+        },
+        "3417": {
+            "title": "Wuthering Waves Fan Creation Event \"Dawn Breaks on Dark Tides\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3417",
+            "published": "2025-10-09 21:30:00"
+        },
+        "3431": {
+            "title": "[Lament Recon: Solaris Soldier] Combat Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3431",
+            "published": "2025-10-10 11:00:00"
+        },
+        "3442": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Threnodian: Leviathan",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3442",
+            "published": "2025-10-14 15:00:00"
+        },
+        "3447": {
+            "title": "[Septimont Weather Forecast] Featured Platforming Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3447",
+            "published": "2025-10-15 18:00:00"
+        },
+        "3462": {
+            "title": "[Bountiful Crescendo] Limited-Time Material Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3462",
+            "published": "2025-10-22 10:00:00"
+        },
+        "3478": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Qiuyuan",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3478",
+            "published": "2025-10-25 11:00:00"
+        },
+        "3479": {
+            "title": "Profile Reveal | Bambooscape \u2014 Qiuyuan",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3479",
+            "published": "2025-10-26 11:05:00"
+        },
+        "3484": {
+            "title": "Upcoming Events in Wuthering Waves Version 2.7",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3484",
+            "published": "2025-10-28 18:00:00"
+        },
+        "3494": {
+            "title": "[Wanderer Knows No Far and Near] Featured Resonator Convene: Boosted Drop Rate for Qiuyuan",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3494",
+            "published": "2025-10-29 11:00:00"
+        },
+        "3501": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Emerald Sentence",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3501",
+            "published": "2025-10-29 11:05:00"
+        },
+        "3509": {
+            "title": "[Between Light and Shadow] Featured Resonator Convene: Boosted Drop Rate for Zani",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3509",
+            "published": "2025-10-29 11:10:00"
+        },
+        "3516": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Blazing Justice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3516",
+            "published": "2025-10-29 11:15:00"
+        },
+        "3523": {
+            "title": "[Freeze Frame: Action Highlights] Combat Photography Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3523",
+            "published": "2025-10-29 16:00:00"
+        },
+        "3485": {
+            "title": "Resonator Review | Scorched Radiance \u2014 Zani",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3485",
+            "published": "2025-10-29 18:00:00"
+        },
+        "3532": {
+            "title": "Tidal Photography: Capture Your Action Highlights of Resonators!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3532",
+            "published": "2025-10-30 12:00:00"
+        },
+        "3541": {
+            "title": "[Lollo Campaign: Ice Savior] Featured Commission Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3541",
+            "published": "2025-11-05 11:00:00"
+        },
+        "3538": {
+            "title": "Insider Channel: Special Program | Signs of Imprisonment: Part One",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3538",
+            "published": "2025-11-05 12:00:00"
+        },
+        "3547": {
+            "title": "Insider Channel: Special Program | Signs of Imprisonment: Part Two",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3547",
+            "published": "2025-11-06 12:00:00"
+        },
+        "3549": {
+            "title": "Insider Channel: Special Program | Signs of Imprisonment: Part Three",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3549",
+            "published": "2025-11-07 12:00:00"
+        },
+        "3554": {
+            "title": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3554",
+            "published": "2025-11-11 11:00:00"
+        },
+        "3572": {
+            "title": "Wuthering Waves Version Preview | Version 2.8 \"To the City Set in Amber\" Scheduled for Release on November 20th (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3572",
+            "published": "2025-11-14 20:00:00"
+        },
+        "3583": {
+            "title": "Wuthering Waves Version 2.8 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3583",
+            "published": "2025-11-15 10:00:00"
+        },
+        "3588": {
+            "title": "Zani's Deluxe Outfit \"Downtown Repose\"",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3588",
+            "published": "2025-11-15 11:00:00"
+        },
+        "3592": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Chisa",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3592",
+            "published": "2025-11-15 18:00:00"
+        },
+        "3595": {
+            "title": "Profile Reveal | Eye of Unraveling \u2014 Chisa",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3595",
+            "published": "2025-11-16 11:05:00"
+        },
+        "3603": {
+            "title": "Event Preview | [Stranger Things in Honami] Combat Event, Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3603",
+            "published": "2025-11-17 18:00:00"
+        },
+        "3613": {
+            "title": "Wuthering Waves Update Content | Version 2.8 \"To the City Set in Amber\" Planned for Release on November 20th (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3613",
+            "published": "2025-11-18 18:00:00"
+        },
+        "3616": {
+            "title": "[Horizon of Dawnbreak] Featured Resonator Convene: Boosted Drop Rate for Chisa",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3616",
+            "published": "2025-11-19 11:00:00"
+        },
+        "3623": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Kumokiri",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3623",
+            "published": "2025-11-19 11:05:00"
+        },
+        "3631": {
+            "title": "[With Hushed Whispers] Featured Resonator Convene: Boosted Drop Rate for Phoebe",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3631",
+            "published": "2025-11-19 11:10:00"
+        },
+        "3639": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Luminous Hymn",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3639",
+            "published": "2025-11-19 11:15:00"
+        },
+        "3637": {
+            "title": "Resonator Review | Graceful Luminescence\u2014Phoebe",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3637",
+            "published": "2025-11-19 19:00:00"
+        },
+        "3657": {
+            "title": "Patch Notes for Version 2.8: To the City Set in Amber",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3657",
+            "published": "2025-11-20 10:00:00"
+        },
+        "3648": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3648",
+            "published": "2025-11-20 15:00:00"
+        },
+        "3664": {
+            "title": "Wuthering Waves Fan Creation Event \"To the City Set in Amber\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3664",
+            "published": "2025-11-20 17:00:00"
+        },
+        "3665": {
+            "title": "V2.8 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3665",
+            "published": "2025-11-20 18:00:00"
+        },
+        "3672": {
+            "title": "[Tactical Simulacra: Off Tune] Featured Combat Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3672",
+            "published": "2025-11-26 10:00:00"
+        },
+        "3678": {
+            "title": "Post-Lament Anthropocene: Comprehensive Mirror for Historians\u2014Lahai-Roi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3678",
+            "published": "2025-11-30 11:00:00"
+        },
+        "3691": {
+            "title": "Notice on the Upgrade and Maintenance of the [Reprise of Tides] Returnee Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3691",
+            "published": "2025-12-03 11:00:00"
+        },
+        "3684": {
+            "title": "[Lollo Campaign: Rising Anew] Featured Commission Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3684",
+            "published": "2025-12-07 11:00:00"
+        },
+        "3698": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Buling",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3698",
+            "published": "2025-12-07 18:00:00"
+        },
+        "3699": {
+            "title": "Profile Reveal | Divine Hearing \u2014 Buling",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3699",
+            "published": "2025-12-08 12:00:00"
+        },
+        "3714": {
+            "title": "Upcoming Events in Wuthering Waves Version 2.8",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3714",
+            "published": "2025-12-08 18:00:00"
+        },
+        "3720": {
+            "title": "Resonator Review | Symphony of Beyond \u2014 Phrolova",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3720",
+            "published": "2025-12-09 18:00:00"
+        },
+        "3723": {
+            "title": "[Requiem Without End] Featured Resonator Convene: Boosted Drop Rate for Phrolova",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3723",
+            "published": "2025-12-10 11:00:00"
+        },
+        "3730": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Lethean Elegy",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3730",
+            "published": "2025-12-10 11:05:00"
+        },
+        "3737": {
+            "title": "[Neptune's Lullaby] Featured Resonator Convene: Boosted Drop Rate for Cantarella",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3737",
+            "published": "2025-12-10 11:10:00"
+        },
+        "3744": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Boosted Drop Rate for Whispers of Sirens",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3744",
+            "published": "2025-12-10 11:15:00"
+        },
+        "3721": {
+            "title": "Resonator Review | Sea of Dreams \u2014 Cantarella",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3721",
+            "published": "2025-12-10 18:00:00"
+        },
+        "3754": {
+            "title": "Wuthering Waves Version Preview | Version 3.0 \"We Who See the Stars\" Scheduled for Release on December 25th (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3754",
+            "published": "2025-12-12 20:25:00"
+        },
+        "3755": {
+            "title": "New Utility Revealed | Expedition Motorbike",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3755",
+            "published": "2025-12-12 20:30:00"
+        },
+        "3766": {
+            "title": "New Battle Mechanic Revealed | Off-Tune Mechanic",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3766",
+            "published": "2025-12-14 18:00:00"
+        },
+        "3767": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Collection of Small & Medium Size Echoes in Lahai-Roi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3767",
+            "published": "2025-12-15 12:00:00"
+        },
+        "3774": {
+            "title": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3774",
+            "published": "2025-12-16 11:00:00"
+        },
+        "3780": {
+            "title": "Notes on promotional event a certain platform",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3780",
+            "published": "2025-12-16 15:10:08"
+        },
+        "3800": {
+            "title": "Wuthering Waves Version 3.0 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3800",
+            "published": "2025-12-18 11:00:00"
+        },
+        "3790": {
+            "title": "Post-Lament Anthropocene: Weapons \u2014 Synth Armament Series",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3790",
+            "published": "2025-12-18 12:00:00"
+        },
+        "3808": {
+            "title": "Doubled Pawns Matrix: Pilot (New High Difficulty Recurring Challenge), Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3808",
+            "published": "2025-12-19 18:00:00"
+        },
+        "3837": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Lynae",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3837",
+            "published": "2025-12-20 11:00:00"
+        },
+        "3830": {
+            "title": "New Region Preview | Lahai-Roi, Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3830",
+            "published": "2025-12-20 18:00:00"
+        },
+        "3842": {
+            "title": "Profile Reveal | Radiant Spectrum \u2014 Lynae",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3842",
+            "published": "2025-12-21 11:05:00"
+        },
+        "3843": {
+            "title": "Wuthering Waves Update Content | Version 3.0 \"We Who See the Stars\" Planned for Release on December 25th (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3843",
+            "published": "2025-12-22 18:00:00"
+        },
+        "3850": {
+            "title": "Resonator Review | Feathered Tempest\u2014Cartethyia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3850",
+            "published": "2025-12-23 18:30:00"
+        },
+        "3858": {
+            "title": "[Undefined Spectrum] Featured Resonator Convene: Lynae",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3858",
+            "published": "2025-12-24 11:00:00"
+        },
+        "3859": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Spectrum Blaster",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3859",
+            "published": "2025-12-24 11:05:00"
+        },
+        "3860": {
+            "title": "[Dance in the Storm's Wake] Featured Resonator Convene: Cartethyia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3860",
+            "published": "2025-12-24 11:10:00"
+        },
+        "3861": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Defier's Thorn",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3861",
+            "published": "2025-12-24 11:15:00"
+        },
+        "3862": {
+            "title": "[Through Verses and Rhythms] Featured Resonator Convene: Ciaccona",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3862",
+            "published": "2025-12-24 11:20:00"
+        },
+        "3863": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Woodland Aria",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3863",
+            "published": "2025-12-24 11:25:00"
+        },
+        "3879": {
+            "title": "Resonator Review | Woven Melodies\u2014Ciaccona",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3879",
+            "published": "2025-12-24 16:00:00"
+        },
+        "3920": {
+            "title": "Patch Notes for Version 3.0: We Who See the Stars",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3920",
+            "published": "2025-12-25 10:00:00"
+        },
+        "3914": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3914",
+            "published": "2025-12-25 15:30:00"
+        },
+        "3930": {
+            "title": "Wuthering Waves Fan Creation Event \"We Who See the Stars\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3930",
+            "published": "2025-12-25 16:00:00"
+        },
+        "3929": {
+            "title": "V3.0 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3929",
+            "published": "2025-12-25 17:00:00"
+        },
+        "3936": {
+            "title": "V3.0 WUWA Discord Quest Livestream Event Begins!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3936",
+            "published": "2025-12-26 14:00:00"
+        },
+        "3941": {
+            "title": "Wuthering Waves V3.0 Short-form Video Creative Event is officially live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3941",
+            "published": "2025-12-26 21:00:00"
+        },
+        "3946": {
+            "title": "[Beyond the Waves: Lahai-Roi] Featured Exploration Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3946",
+            "published": "2025-12-31 11:00:00"
+        },
+        "3956": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Hyvatia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3956",
+            "published": "2026-01-06 14:00:00"
+        },
+        "3962": {
+            "title": "[Bountiful Crescendo] Limited-Time Material Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3962",
+            "published": "2026-01-07 11:00:00"
+        },
+        "3972": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Reactor Husk",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3972",
+            "published": "2026-01-09 12:00:00"
+        },
+        "3986": {
+            "title": "Wutherium Geographic: Lands and Waters \u2014 Lahai-Roi Vol. 1",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3986",
+            "published": "2026-01-10 10:00:00"
+        },
+        "3973": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Mornye",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3973",
+            "published": "2026-01-10 11:00:00"
+        },
+        "3990": {
+            "title": "Profile Reveal | Astral Mapping \u2014 Mornye",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3990",
+            "published": "2026-01-11 11:05:00"
+        },
+        "3993": {
+            "title": "Upcoming Events in Wuthering Waves Version 3.0",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/3993",
+            "published": "2026-01-13 16:00:00"
+        },
+        "4000": {
+            "title": "Resonator Review | Stasis, Cycle, Renewal \u2014 Iuno",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4000",
+            "published": "2026-01-13 18:00:00"
+        },
+        "4009": {
+            "title": "[Distant May the Starlights Be] Featured Resonator Convene: Mornye",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4009",
+            "published": "2026-01-14 11:00:00"
+        },
+        "4017": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Starfield Calibrator",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4017",
+            "published": "2026-01-14 11:05:00"
+        },
+        "4025": {
+            "title": "[Eternal Radiance on the Crown] Featured Resonator Convene: Augusta",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4025",
+            "published": "2026-01-14 11:10:00"
+        },
+        "4033": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Thunderflare Dominion",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4033",
+            "published": "2026-01-14 11:15:00"
+        },
+        "4041": {
+            "title": "[Across Time's Waxes and Wanes] Featured Resonator Convene: Iuno",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4041",
+            "published": "2026-01-14 11:20:00"
+        },
+        "4049": {
+            "title": "[Absolute Pulsation] Featured Weapon Convene: Moongazer's Sigil",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4049",
+            "published": "2026-01-14 11:25:00"
+        },
+        "4007": {
+            "title": "Resonator Review | Magnetism Before Light \u2014 Augusta",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4007",
+            "published": "2026-01-14 18:00:00"
+        },
+        "4064": {
+            "title": "[Signs of a Silent Star] Leisure Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4064",
+            "published": "2026-01-21 11:00:00"
+        },
+        "4076": {
+            "title": "Wutherium Geographic: Lands and Waters \u2014 Lahai-Roi Vol.2 - 4",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4076",
+            "published": "2026-01-21 20:00:00"
+        },
+        "4081": {
+            "title": "Version 3.1 \"For You Who Walk in Snow\" Special Updates",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4081",
+            "published": "2026-01-23 20:05:00"
+        },
+        "4082": {
+            "title": "Wuthering Waves Version Preview | Version 3.1 \"For You Who Walk in Snow\" Scheduled for Release on February 5th (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4082",
+            "published": "2026-01-23 20:15:00"
+        },
+        "4102": {
+            "title": "Wuthering Waves Version 3.1 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4102",
+            "published": "2026-01-29 11:00:00"
+        },
+        "4113": {
+            "title": "New Area Preview | Roya Frostlands - Frostlands Surface, Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4113",
+            "published": "2026-01-30 11:00:00"
+        },
+        "4100": {
+            "title": "Rover's Signature Outfit \"Perpetual Spark\" will become available once Version 3.1 goes live.",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4100",
+            "published": "2026-01-30 11:00:00"
+        },
+        "4123": {
+            "title": "Post-Lament Anthropocene: Comprehensive Mirror for Historians \u2014 Exostrider",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4123",
+            "published": "2026-01-30 14:40:00"
+        },
+        "4134": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Aemeath",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4134",
+            "published": "2026-01-31 11:00:00"
+        },
+        "4140": {
+            "title": "Profile Reveal | Guiding Starlance \u2014 Aemeath",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4140",
+            "published": "2026-02-01 11:05:00"
+        },
+        "4149": {
+            "title": "Resonator Review | Howling Flame \u2014 Lupa",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4149",
+            "published": "2026-02-02 17:00:00"
+        },
+        "4156": {
+            "title": "Wuthering Waves Update Content | Version 3.1 \"For You Who Walk in Snow\" Planned for Release on February 5th (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4156",
+            "published": "2026-02-02 18:00:00"
+        },
+        "4164": {
+            "title": "Resonator Review | Eye of Unraveling \u2014 Chisa",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4164",
+            "published": "2026-02-03 18:00:00"
+        },
+        "4196": {
+            "title": "[Take Flight in Spring] Featured Resonator Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4196",
+            "published": "2026-02-04 11:00:00"
+        },
+        "4204": {
+            "title": "[Everbright Polestar] Featured Weapon Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4204",
+            "published": "2026-02-04 11:05:00"
+        },
+        "4167": {
+            "title": "[Version 3.1 Featured Resonator/Weapon Convene: Phase I]",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4167",
+            "published": "2026-02-04 11:15:00"
+        },
+        "4188": {
+            "title": "Patch Notes for Version 3.1: For You Who Walk in Snow",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4188",
+            "published": "2026-02-05 10:00:00"
+        },
+        "4215": {
+            "title": "V3.1 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4215",
+            "published": "2026-02-05 16:30:00"
+        },
+        "4172": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4172",
+            "published": "2026-02-05 20:00:00"
+        },
+        "4233": {
+            "title": "Wuthering Waves Fan Creation Event\u00a0\"For You Who Walk in Snow\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4233",
+            "published": "2026-02-05 21:00:00"
+        },
+        "4236": {
+            "title": "V3.1 WUWA Discord Quest Livestream Event Begins!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4236",
+            "published": "2026-02-06 11:30:00"
+        },
+        "4224": {
+            "title": "[Full Throttle! Bolt & Blitz!] Leisure Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4224",
+            "published": "2026-02-06 12:00:00"
+        },
+        "4275": {
+            "title": "[Where Stars Cascade Down] Limited-Time Event, Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4275",
+            "published": "2026-02-13 18:00:00"
+        },
+        "4109": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Collection of Small & Medium Size Echoes in Roya Frostlands",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4109",
+            "published": "2026-02-14 15:00:00"
+        },
+        "4276": {
+            "title": "Wutherium Geographic: Lands and Waters \u2014 Roya Frostlands: Frostlands Surface",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4276",
+            "published": "2026-02-14 18:00:00"
+        },
+        "4295": {
+            "title": "Tidal Photography: Capture Your Action Highlights of Resonators! | Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4295",
+            "published": "2026-02-15 17:30:00"
+        },
+        "4248": {
+            "title": "Unsigned Good Wishes",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4248",
+            "published": "2026-02-16 11:00:00"
+        },
+        "4298": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Nameless Explorer",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4298",
+            "published": "2026-02-16 13:00:00"
+        },
+        "4299": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Sigillum",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4299",
+            "published": "2026-02-16 16:00:00"
+        },
+        "4256": {
+            "title": "[Rein Back! Migration Mayhem!] Leisure Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4256",
+            "published": "2026-02-18 11:00:00"
+        },
+        "4264": {
+            "title": "[Bountiful Crescendo] Limited-Time Material Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4264",
+            "published": "2026-02-18 18:00:00"
+        },
+        "4301": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Luuk Herssen",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4301",
+            "published": "2026-02-21 11:00:00"
+        },
+        "4302": {
+            "title": "Profile Reveal | Phase Transition \u2014 Luuk Herssen",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4302",
+            "published": "2026-02-22 11:05:00"
+        },
+        "4303": {
+            "title": "Upcoming Events in Wuthering Waves Version 3.1",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4303",
+            "published": "2026-02-23 18:00:00"
+        },
+        "4308": {
+            "title": "Resonator Review | Infernal Descent\u2014Galbrena",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4308",
+            "published": "2026-02-24 18:00:00"
+        },
+        "4321": {
+            "title": "[When Winter Thaws] Featured Resonator Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4321",
+            "published": "2026-02-25 11:00:00"
+        },
+        "4329": {
+            "title": "[Daybreaker's Spine] Featured Weapon Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4329",
+            "published": "2026-02-25 11:05:00"
+        },
+        "4337": {
+            "title": "[From Ashes] Featured Resonator Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4337",
+            "published": "2026-02-25 11:10:00"
+        },
+        "4345": {
+            "title": "[Lux & Umbra] Featured Weapon Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4345",
+            "published": "2026-02-25 11:15:00"
+        },
+        "4355": {
+            "title": "[Lollo Campaign: Implementation] Featured Commission Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4355",
+            "published": "2026-03-04 11:00:00"
+        },
+        "4368": {
+            "title": "[Chord Cleansing] Limited-Time Echo Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4368",
+            "published": "2026-03-10 11:00:00"
+        },
+        "4386": {
+            "title": "High Difficulty Recurring Challenge: Endstate Matrix, Coming in Version 3.2!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4386",
+            "published": "2026-03-13 19:30:00"
+        },
+        "4380": {
+            "title": "Wuthering Waves Version Preview | Version 3.2 \"Resolution to Illuminate the Shadows\" Scheduled for Release on March 19th (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4380",
+            "published": "2026-03-13 19:50:00"
+        },
+        "4393": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Sigrika",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4393",
+            "published": "2026-03-14 12:00:00"
+        },
+        "4403": {
+            "title": "Wuthering Waves Version 3.2 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4403",
+            "published": "2026-03-14 18:00:00"
+        },
+        "4410": {
+            "title": "Profile Reveal | True Name Manifestation \u2014 Sigrika",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4410",
+            "published": "2026-03-15 11:05:00"
+        },
+        "4418": {
+            "title": "Wuthering Waves Update Content | Version 3.2 \"Resolution to Illuminate the Shadows\" Planned for Release on March 19th (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4418",
+            "published": "2026-03-17 18:00:00"
+        },
+        "4422": {
+            "title": "Resonator Review | Bambooscape \u2014 Qiuyuan",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4422",
+            "published": "2026-03-18 18:00:00"
+        },
+        "4429": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4429",
+            "published": "2026-03-18 19:00:00"
+        },
+        "4447": {
+            "title": "Patch Notes for Version 3.2: Resolution to Illuminate the Shadows",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4447",
+            "published": "2026-03-19 10:00:00"
+        },
+        "4451": {
+            "title": "Wuthering Waves Fan Creation Event \"Resolution to Illuminate the Shadows\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4451",
+            "published": "2026-03-19 16:00:00"
+        },
+        "4452": {
+            "title": "V3.2 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4452",
+            "published": "2026-03-19 17:00:00"
+        },
+        "4458": {
+            "title": "[Speed up! F.U.E.L. Instrumentality Project!] Leisure Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4458",
+            "published": "2026-04-01 11:00:00"
+        },
+        "4466": {
+            "title": "[Bountiful Crescendo] Limited-Time Material Double Drop Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4466",
+            "published": "2026-04-01 17:00:00"
+        },
+        "4480": {
+            "title": "Upcoming Events in Wuthering Waves Version 3.2",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4480",
+            "published": "2026-04-06 18:00:00"
+        },
+        "4490": {
+            "title": "Resonator Review | Scorched Radiance\u2014Zani",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4490",
+            "published": "2026-04-07 16:00:00"
+        },
+        "4491": {
+            "title": "Resonator Review | Graceful Luminescence\u2014Phoebe",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4491",
+            "published": "2026-04-07 18:00:00"
+        },
+        "4493": {
+            "title": "[Version 3.2 Featured Resonator/Weapon Convene: Phase II]",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4493",
+            "published": "2026-04-08 11:10:00"
+        },
+        "4501": {
+            "title": "Resonator Review | Radiant Spectrum \u2014 Lynae",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4501",
+            "published": "2026-04-08 18:00:00"
+        },
+        "4506": {
+            "title": "[The Flaming Red in Memory] Showcase Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4506",
+            "published": "2026-04-15 11:00:00"
+        },
+        "4519": {
+            "title": "Version 3.3 \"Reverbs From the End of Galaxies\" Special Report",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4519",
+            "published": "2026-04-17 20:15:00"
+        },
+        "4528": {
+            "title": "Wuthering Waves Version Preview | Version 3.3 \"Reverbs From the End of Galaxies\" Scheduled for Release on April 30th (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4528",
+            "published": "2026-04-18 11:00:00"
+        },
+        "4547": {
+            "title": "Wuthering Waves Version 3.3 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4547",
+            "published": "2026-04-22 11:00:00"
+        },
+        "4544": {
+            "title": "Mornye's Deluxe Outfit [Plush Dream]",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4544",
+            "published": "2026-04-23 12:00:00"
+        },
+        "4561": {
+            "title": "New Location Preview | Roya Frostlands: Dimmr Plains, Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4561",
+            "published": "2026-04-24 11:00:00"
+        },
+        "4562": {
+            "title": "Pioneer Observations: What Lies Beneath Lahai-Roi",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4562",
+            "published": "2026-04-24 18:00:00"
+        },
+        "4569": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Hiyuki",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4569",
+            "published": "2026-04-25 12:00:00"
+        },
+        "4570": {
+            "title": "Profile Reveal | Futures' Tithe \u2014 Hiyuki",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4570",
+            "published": "2026-04-26 11:05:00"
+        },
+        "4584": {
+            "title": "Resonator Review | Stasis, Cycle, Renewal \u2014 Iuno",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4584",
+            "published": "2026-04-27 18:00:00"
+        },
+        "4585": {
+            "title": "Resonator Review | Astral Mapping \u2014 Mornye",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4585",
+            "published": "2026-04-28 18:00:00"
+        },
+        "4591": {
+            "title": "[Version 3.3 Featured Resonator/Weapon Convene: Phase I]",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4591",
+            "published": "2026-04-29 11:10:00"
+        },
+        "4605": {
+            "title": "Wuthering Waves Update Content | Version 3.3 \"Reverbs From the End of Galaxies\" Planned for Release on April 30 (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4605",
+            "published": "2026-04-29 18:00:00"
+        },
+        "4613": {
+            "title": "Patch Notes for Version 3.3: Reverbs From the End of Galaxies",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4613",
+            "published": "2026-04-30 10:00:00"
+        },
+        "4616": {
+            "title": "V3.3 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4616",
+            "published": "2026-04-30 18:30:00"
+        },
+        "4622": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4622",
+            "published": "2026-04-30 19:30:00"
+        },
+        "4626": {
+            "title": "Wuthering Waves Fan Creation Event \"Reverbs from the End of Galaxy\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4626",
+            "published": "2026-04-30 20:00:00"
+        },
+        "4627": {
+            "title": "Event Preview | [Star Bouncing] Anniversary Event, Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4627",
+            "published": "2026-05-01 18:00:00"
+        },
+        "4636": {
+            "title": "[Lollo Express: Promise Delivered] Anniversary Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4636",
+            "published": "2026-05-06 18:00:00"
+        },
+        "4644": {
+            "title": "[Aced! Combat Mastery Test!] Featured Combat Event",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4644",
+            "published": "2026-05-06 18:30:00"
+        },
+        "4654": {
+            "title": "Event Preview | [Cubie Derby: Championship] Anniversary Event, Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4654",
+            "published": "2026-05-08 18:00:00"
+        },
+        "4658": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Denia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4658",
+            "published": "2026-05-10 18:00:00"
+        },
+        "4677": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Denia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4677",
+            "published": "2026-05-16 19:00:00"
+        },
+        "4665": {
+            "title": "Profile Reveal | Bubbles of Nihility - Denia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4665",
+            "published": "2026-05-17 11:05:00"
+        },
+        "4689": {
+            "title": "Resonator Review | Eye of Unraveling \u2014 Chisa",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4689",
+            "published": "2026-05-18 18:00:00"
+        },
+        "4690": {
+            "title": "Resonator Review | Symphony of Beyond\u2014Phrolova",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4690",
+            "published": "2026-05-19 18:00:00"
+        },
+        "4712": {
+            "title": "[False Promise for Tomorrow] Featured Resonator Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4712",
+            "published": "2026-05-20 11:00:00"
+        },
+        "4720": {
+            "title": "[Forged Dwarf Star] Featured Weapon Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4720",
+            "published": "2026-05-20 11:05:00"
+        },
+        "4691": {
+            "title": "[Version 3.3 Featured Resonator/Weapon Convene: Phase \u2161]",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4691",
+            "published": "2026-05-20 11:10:00"
+        },
+        "4695": {
+            "title": "Event Preview | [Depths of Illusive Realm: Chromatic Fantasy] Featured Combat Event, Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4695",
+            "published": "2026-05-20 17:00:00"
+        },
+        "4685": {
+            "title": "Upcoming Events in Wuthering Waves Version 3.3",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4685",
+            "published": "2026-05-20 18:00:00"
+        },
+        "4735": {
+            "title": "Version 3.3 Phase II Wuthering Waves Wallpaper",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4735",
+            "published": "2026-05-28 11:30:00"
+        },
+        "4739": {
+            "title": "Wuthering Waves x Cyberpunk: Edgerunners Collaborations Info",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4739",
+            "published": "2026-05-29 20:05:00"
+        },
+        "4740": {
+            "title": "Wuthering Waves Version Preview | Version 3.4 \"The Dream Not Dreamed\" Scheduled for Release on June 8 (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4740",
+            "published": "2026-05-29 20:10:00"
+        },
+        "4765": {
+            "title": "Wuthering Waves Version 3.4 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4765",
+            "published": "2026-06-01 11:00:00"
+        },
+        "4764": {
+            "title": "Resonator Reveal | Rebecca",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4764",
+            "published": "2026-06-01 18:00:00"
+        },
+        "4774": {
+            "title": "Resonator Reveal | Lucy",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4774",
+            "published": "2026-06-03 12:00:00"
+        },
+        "4799": {
+            "title": "Profile Reveal | Fury-Type Arsenal - Rebecca",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4799",
+            "published": "2026-06-06 16:00:00"
+        },
+        "4800": {
+            "title": "Profile Reveal | Xeno-Domain Hacking - Lucy",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4800",
+            "published": "2026-06-06 17:00:00"
+        },
+        "4836": {
+            "title": "[Dreaming Upon the Moon] Collab Resonator Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4836",
+            "published": "2026-06-07 11:00:00"
+        },
+        "4844": {
+            "title": "[Spectral Trigger] Collab Weapon Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4844",
+            "published": "2026-06-07 11:05:00"
+        },
+        "4852": {
+            "title": "[Rekindled Embers of Rage] Collab Resonator Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4852",
+            "published": "2026-06-07 11:10:00"
+        },
+        "4860": {
+            "title": "[Skull Thrasher] Collab Weapon Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4860",
+            "published": "2026-06-07 11:15:00"
+        },
+        "4791": {
+            "title": "Wuthering Waves Update Content | Version 3.4 \"The Dream Not Dreamed\" Planned for Release on June 8 (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4791",
+            "published": "2026-06-07 18:00:00"
+        },
+        "4792": {
+            "title": "Event Preview | [Depths of Illusive Realm: Dreamchasers] Featured Combat Event, Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4792",
+            "published": "2026-06-07 18:30:00"
+        },
+        "4819": {
+            "title": "Patch Notes for Version 3.4: The Dream Not Dreamed",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4819",
+            "published": "2026-06-08 10:00:00"
+        },
+        "4822": {
+            "title": "V3.4 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4822",
+            "published": "2026-06-08 18:30:00"
+        },
+        "4824": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4824",
+            "published": "2026-06-08 19:30:00"
+        },
+        "4823": {
+            "title": "Wuthering Waves Fan Creation Event \"The Dream Not Dreamed\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4823",
+            "published": "2026-06-08 20:00:00"
+        },
+        "4825": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Lucilla",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4825",
+            "published": "2026-06-10 10:00:00"
+        },
+        "4870": {
+            "title": "Profile Reveal | Memory Palace - Lucilla",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4870",
+            "published": "2026-06-10 11:05:00"
+        },
+        "4881": {
+            "title": "V3.4 Discord Quest Social Plan",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4881",
+            "published": "2026-06-10 11:30:00"
+        },
+        "4885": {
+            "title": "[Tomorrow in the Frame] Featured Resonator Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4885",
+            "published": "2026-06-12 11:00:00"
+        },
+        "4894": {
+            "title": "[Freeze Frame] Featured Weapon Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4894",
+            "published": "2026-06-12 11:05:00"
+        },
+        "4910": {
+            "title": "Version 3.4 Wuthering Waves Wallpaper",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4910",
+            "published": "2026-06-14 12:30:00"
+        },
+        "4906": {
+            "title": "Wuthering Waves \u00d7 Cyberpunk: Edgerunners | New Enemy \u2014 Nightmare: Adam Smasher",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4906",
+            "published": "2026-06-14 18:30:00"
+        },
+        "4916": {
+            "title": "[Version 3.4 Featured Resonator/Weapon Convene: Phase II]",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4916",
+            "published": "2026-06-17 10:00:00"
+        },
+        "4917": {
+            "title": "Upcoming Events in Wuthering Waves Version 3.4",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4917",
+            "published": "2026-06-17 16:00:00"
+        },
+        "4918": {
+            "title": "Resonator Review | Feathered Tempest \u2014 Cartethyia",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4918",
+            "published": "2026-06-17 18:00:00"
+        },
+        "4936": {
+            "title": "Wuthering Waves Version Preview | Version 3.5 \"Blade of Past Resounds, Lingering Dream Hymns\"",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4936",
+            "published": "2026-06-26 20:40:00"
+        },
+        "4944": {
+            "title": "Wuthering Waves - XBOX Game Pass Gift Pack & XBOX Exclusive Sigil",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4944",
+            "published": "2026-06-27 11:00:00"
+        },
+        "4955": {
+            "title": "\"Nightveil Piercer\" Premium Model Set Bundle",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4955",
+            "published": "2026-07-02 12:05:00"
+        },
+        "4973": {
+            "title": "Wuthering Waves Version 3.5 Update Maintenance Notice",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4973",
+            "published": "2026-07-03 11:00:00"
+        },
+        "4962": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Collection of Small & Medium Size Echoes in Mengzhou: Land of Xuanfang",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4962",
+            "published": "2026-07-03 18:00:00"
+        },
+        "4957": {
+            "title": "Lynae's Deluxe Outfit \"Peppermint\" will be permanently available",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4957",
+            "published": "2026-07-04 16:00:00"
+        },
+        "4959": {
+            "title": "Chisa's Deluxe Outfit \"Peach Parfait\" will be permanently available",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4959",
+            "published": "2026-07-04 18:00:00"
+        },
+        "4961": {
+            "title": "Post-Lament Anthropocene: Stars Intertwined | Yangyang: Xuanling",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4961",
+            "published": "2026-07-05 11:00:00"
+        },
+        "4960": {
+            "title": "New Region Preview I | Mengzhou: Land of Xuanfang is coming soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4960",
+            "published": "2026-07-05 12:00:00"
+        },
+        "5007": {
+            "title": "Profile Reveal | Voices of Azure Plume - Yangyang: Xuanling",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5007",
+            "published": "2026-07-06 11:05:00"
+        },
+        "4985": {
+            "title": "New Region Preview II | Mengzhou: Land of Xuanfang is coming soon! Get a first look at its quests and monsters!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/4985",
+            "published": "2026-07-06 12:00:00"
+        },
+        "5011": {
+            "title": "Profile Reveal | Vessel of Sounds \u2014 Rover: Electro",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5011",
+            "published": "2026-07-08 16:00:00"
+        },
+        "5023": {
+            "title": "Wuthering Waves Update Content | Version 3.5 \"Blade of Past Resounds, Lingering Dream Hymns\" Planned for Release on July 10 (UTC+8)",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5023",
+            "published": "2026-07-08 17:00:00"
+        },
+        "5047": {
+            "title": "[Voices on Azure Feathers] Featured Resonator Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5047",
+            "published": "2026-07-09 11:00:00"
+        },
+        "5056": {
+            "title": "[Azure Oath] Featured Weapon Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5056",
+            "published": "2026-07-09 11:05:00"
+        },
+        "5039": {
+            "title": "[Version 3.5 Featured Resonator/Weapon Convene: Phase I]",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5039",
+            "published": "2026-07-09 11:10:00"
+        },
+        "5065": {
+            "title": "[Starpath Reverbs] Reverb Resonator Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5065",
+            "published": "2026-07-09 11:15:00"
+        },
+        "5076": {
+            "title": "[Tideforge Reverbs] Reverb Weapon Convene",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5076",
+            "published": "2026-07-09 11:20:00"
+        },
+        "5044": {
+            "title": "Resonator Review | Phase Transition - Luuk Herssen",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5044",
+            "published": "2026-07-09 17:00:00"
+        },
+        "5045": {
+            "title": "Resonator Review | Radiant Spectrum \u2014 Lynae",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5045",
+            "published": "2026-07-09 18:15:00"
+        },
+        "5009": {
+            "title": "Wuthering Waves Fan Creation Event Winners Reveal",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5009",
+            "published": "2026-07-09 20:00:00"
+        },
+        "5113": {
+            "title": "FAQ \u2013 Xbox",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5113",
+            "published": "2026-07-10 09:00:00"
+        },
+        "5091": {
+            "title": "Version 3.5 Blade of Past Resounds, Lingering Dream Hymns Content Overview",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5091",
+            "published": "2026-07-10 10:00:00"
+        },
+        "5125": {
+            "title": "Tidal Photography: Land of Xuanfang Photo Challenge is now underway!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5125",
+            "published": "2026-07-10 14:00:00"
+        },
+        "5094": {
+            "title": "Wuthering Waves Fan Creation Event \"Blade of Past Resounds, Lingering Dream Hymns\" is now live!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5094",
+            "published": "2026-07-10 17:00:00"
+        },
+        "5129": {
+            "title": "Event Preview | [Lament Recon: Tacet Crisis] Combat Event, Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5129",
+            "published": "2026-07-10 18:00:00"
+        },
+        "5132": {
+            "title": "Post-Lament Anthropocene: Comprehensive Mirror for Historian \u2014 Land of Xuanfang",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5132",
+            "published": "2026-07-10 20:00:00"
+        },
+        "5111": {
+            "title": "V3.5 Wuthering Waves Battle Rush",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5111",
+            "published": "2026-07-10 21:30:00"
+        },
+        "5150": {
+            "title": "New Challenge Cycle for \"Endstate Matrix\" Coming Soon!",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5150",
+            "published": "2026-07-15 17:00:00"
+        },
+        "5160": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Thousand-Puppet Pavilion",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5160",
+            "published": "2026-07-18 18:00:00"
+        },
+        "5162": {
+            "title": "Post-Lament Anthropocene: Enemies \u2014 Myriad Snare: Rustfire Chassis",
+            "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5162",
+            "published": "2026-07-19 16:00:00"
+        }
+    },
     "x": {}
 }
