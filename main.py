@@ -1,35 +1,66 @@
-from sources.youtube import fetch
+from sources.youtube import fetch as fetch_youtube
+# from sources.website import fetch as fetch_website
+# from sources.x import fetch as fetch_x
+
 from utils.storage import (
     is_first_run,
     add_post,
-    already_posted
+    already_posted,
 )
 
-from utils.discord import send_post   # Adjust if your function has a different name
+from utils.discord import send_post  # Change if your function name differs
 
-videos = fetch()
 
-# First run
-if is_first_run("youtube"):
-    print("First run detected.")
+def process_source(source_name, posts):
+    if is_first_run(source_name):
+        print(f"First run detected for {source_name}.")
 
-    for video in videos:
-        add_post("youtube", video)
+        for post in posts:
+            add_post(source_name, post)
 
-    print(f"Stored {len(videos)} existing videos.")
-    print("Nothing will be sent to Discord.")
+        print(f"Stored {len(posts)} existing posts.")
+        print("Nothing will be sent to Discord.\n")
+        return
 
-# Normal run
-else:
-    print("Checking for new videos...\n")
+    print(f"Checking {source_name}...\n")
 
-    for video in videos:
+    new_posts = 0
 
-        if already_posted("youtube", video["id"]):
+    for post in posts:
+
+        if already_posted(source_name, post["id"]):
             continue
 
-        print("NEW VIDEO FOUND!")
-        print(video["title"])
+        print(f"NEW {source_name.upper()} POST!")
+        print(post["title"])
 
-        send_post(video)        # Use your existing Discord function
-        add_post("youtube", video)
+        send_post(post)
+
+        add_post(source_name, post)
+
+        new_posts += 1
+
+    if new_posts == 0:
+        print(f"No new {source_name} posts.\n")
+
+
+def main():
+
+    process_source(
+        "youtube",
+        fetch_youtube()
+    )
+
+    # process_source(
+    #     "website",
+    #     fetch_website()
+    # )
+
+    # process_source(
+    #     "x",
+    #     fetch_x()
+    # )
+
+
+if __name__ == "__main__":
+    main()
