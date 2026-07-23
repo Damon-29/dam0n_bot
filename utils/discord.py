@@ -22,7 +22,7 @@ def send_post(source, post):
     }
 
     # Show article image for website posts
-    if source == "website" and post.get("thumbnail"):
+    if post.get("thumbnail"):
         embed["image"] = {
             "url": post["thumbnail"]
         }
