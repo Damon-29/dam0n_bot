@@ -1,21 +1,18 @@
 import os
 import requests
 
-
 WEBHOOK_URL = os.getenv("DISCORD_WEBHOOK")
 
 
-def send_post(post):
-    if not WEBHOOK_URL:
-        raise ValueError("DISCORD_WEBHOOK environment variable is not set.")
-
+def send_post(source, post):
     payload = {
-        "content": f"**{post['title']}**\n{post['url']}"
+        "content": (
+            f"## 📰 New {source.title()} Update\n\n"
+            f"**{post['title']}**\n"
+            f"{post['url']}"
+        )
     }
 
     response = requests.post(WEBHOOK_URL, json=payload)
 
-    if response.status_code not in (200, 204):
-        raise Exception(
-            f"Discord webhook failed ({response.status_code}): {response.text}"
-        )
+    response.raise_for_status()
