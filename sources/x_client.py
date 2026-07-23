@@ -22,7 +22,6 @@ class XClient:
         "Chrome/142.0.0.0 Safari/537.36"
     )
 
-    # Use constants from x_constants.py
     USER_BY_SCREEN_NAME_QUERY = USER_BY_SCREEN_NAME_QUERY
     USER_TWEETS_QUERY = USER_TWEETS_QUERY
     FEATURES = DEFAULT_FEATURES
@@ -51,6 +50,45 @@ class XClient:
 
         return self.guest_token
 
+    def _headers(self):
+        return {
+            "Authorization": f"Bearer {self.BEARER}",
+            "User-Agent": self.USER_AGENT,
+            "x-guest-token": self.guest_token,
+            "x-twitter-active-user": "yes",
+            "x-twitter-client-language": "en",
+            "Accept": "*/*",
+            "Referer": "https://x.com/",
+            "Origin": "https://x.com",
+        }
+
+    def _graphql_get(self, query_id, operation, variables, field_toggles=None):
+        url = (
+            f"https://x.com/i/api/graphql/{query_id}/{operation}"
+            f"?variables={quote(json.dumps(variables, separators=(',', ':')))}"
+            f"&features={quote(self.FEATURES)}"
+        )
+
+        if field_toggles:
+            url += (
+                "&fieldToggles="
+                + quote(json.dumps(field_toggles, separators=(",", ":")))
+            )
+
+        r = self.session.get(
+            url,
+            headers=self._headers(),
+            timeout=30,
+        )
+
+        print(f"\n=== {operation} ===")
+        print("Status:", r.status_code)
+        print(r.text[:1500])
+
+        r.raise_for_status()
+
+        return r.json()
+
     def get_user_id(self, screen_name: str):
         variables = {
             "screen_name": screen_name,
@@ -62,32 +100,32 @@ class XClient:
             "withAuxiliaryUserLabels": True,
         }
 
-        url = (
-            f"https://x.com/i/api/graphql/"
-            f"{self.USER_BY_SCREEN_NAME_QUERY}/UserByScreenName"
-            f"?variables={quote(json.dumps(variables, separators=(',', ':')))}"
-            f"&features={quote(self.FEATURES)}"
-            f"&fieldToggles={quote(json.dumps(field_toggles, separators=(',', ':')))}"
+        data = self._graphql_get(
+            self.USER_BY_SCREEN_NAME_QUERY,
+            "UserByScreenName",
+            variables,
+            field_toggles,
         )
 
-        headers = {
-            "Authorization": f"Bearer {self.BEARER}",
-            "User-Agent": self.USER_AGENT,
-            "x-guest-token": self.guest_token,
-            "x-twitter-active-user": "yes",
-            "x-twitter-client-language": "en",
-            "Accept": "*/*",
-            "Referer": "https://x.com/",
-            "Origin": "https://x.com",
+        return data["data"]["user"]["result"]["rest_id"]
+
+    def get_user_tweets(self, user_id: str):
+        variables = {
+            "userId": user_id,
+            "count": 20,
+            "includePromotedContent": False,
+            "withQuickPromoteEligibilityTweetFields": False,
+            "withVoice": False,
+            "withV2Timeline": True,
         }
 
-        r = self.session.get(url, headers=headers, timeout=30)
+        field_toggles = {
+            "withArticlePlainText": False,
+        }
 
-        print("Status:", r.status_code)
-        print(r.text[:1000])
-
-        r.raise_for_status()
-
-        data = r.json()
-
-        return data["data"]["user"]["result"]["rest_id"]
+        return self._graphql_get(
+            self.USER_TWEETS_QUERY,
+            "UserTweets",
+            variables,
+            field_toggles,
+        )
