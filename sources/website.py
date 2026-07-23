@@ -1,26 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
 
-
 URL = "https://wutheringwaves.kurogames.com/en/main/news"
 
+response = requests.get(URL)
+soup = BeautifulSoup(response.text, "html.parser")
 
-def fetch():
-    response = requests.get(URL)
+print("JavaScript files:\n")
 
-    print("Status Code:", response.status_code)
-
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    scripts = soup.find_all("script")
-
-    for script in scripts:
-        text = script.string
-
-        if text and "window.__INITIAL__" in text:
-            print(text)
-            break
-
-
-if __name__ == "__main__":
-    fetch()
+for script in soup.find_all("script", src=True):
+    print(script["src"])
