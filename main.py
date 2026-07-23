@@ -64,7 +64,7 @@ def main():
     run_source("website", fetch_website)
 
     # Uncomment when X is implemented
-    # run_source("x", fetch_x)
+    run_source("x", fetch_x)
 
 
 if __name__ == "__main__":
