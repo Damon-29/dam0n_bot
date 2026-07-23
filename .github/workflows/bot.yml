@@ -24,10 +24,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run bot
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-        run: python main.py
+      - name: Test website parser
+        env: python sources/website.py
 
       - name: Commit updated posted.json
         run: |
